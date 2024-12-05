@@ -33,4 +33,4 @@
 
 ```
 
-NOTE : The Ollama- Mistral needs to be setup on the laptop locally for running this script
+NOTE : The Ollama- Mistral needs to be setup on the laptop locally for running this script - Check using ```Ollama run mistral```
