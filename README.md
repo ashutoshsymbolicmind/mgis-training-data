@@ -6,6 +6,8 @@
 3. Current geenrated json for all 22 PDF files is ```pdf_structure_<datetime>.json``` (hardcoded in the main Ollama run python file ```ollama_section_to_paras.py```)
 4. Run the ```python3 ollama_Section_to_paras.py``` to generate all the "sectional stories" along with <EOS> token at the end
 
+### Main combined training data 
+Find in ```output_files/combined_narratives.txt```
    
 ## Base prompt 
 ```
