@@ -178,6 +178,7 @@ def main():
         extractor = PDFReader()
         extractor.process_pdf_folder(
             folder_path=args.input_folder,
+            output_path=args.output,
         )
     except Exception as e:
         print(f"Error: {str(e)}", file=sys.stderr)
