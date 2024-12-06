@@ -1,0 +1,59 @@
+Q: What is the period during which the Total Disability Monthly Benefit will be paid to an employee after completion?
+A: Based on Lincoln Policy 5293231.pdf page 4, the Total Disability Monthly Benefit will be paid to an Employee after the Elimination Period ends.
+<EOS>
+Q: What is the Maximum Monthly Benefit for the Total Disability Monthly Benefit will be?
+A: Based on Lincoln Policy 5293231.pdf page 5, multiplied by the Multiplied to the Maximum Monthly Benefit; minus Other Income Benefits, except for earnings from Partial Disability Employment. The Maximum Monthly Benefit will not be less than the Minimum Monthly Benefit would exceed 100% of the Insured's Basic Monthy Earnings.
+<EOS>
+Q: What is the minimum amount that the Partial Disability Monthly Benefit will never be less?
+A: The Insured Employee's Lost Income minus all Other Income Benefits (including earnings from Partial Disability Employment).
+<EOS>
+Q: What is the requirement for a former employee to receive benefits during a Recurrent Disability?
+A: Based on Lincoln Policy 5293231 page 26, a former Employee must have a Recurrent Disability that led to their initial disability claim, and meet the Schedule of Benefits's minimum number of Hours Per Week as shown in the Schedule of Benefits; d. benefits are not payable under any other group long-term disability plan; and e. a Recurrent Disability begins. Benefits for the former Employee will be reinstated for the Recurrent Disability, and the completion of a new Elimination Period before further Monthly Benefits become payable. The same Maximum Benefit Period, Exclusions, and Limitations will apply to the Recurrent Disability ended.
+<EOS>
+Q: What is the waiting period required for Recurrent Disability payments?
+A: Based on Lincoln Policy 5293231 page 10 states that if the former Employee's prior Disability if the Recurrent Disability begins within six months of the prior Disability benefits ended. In this case, no new Elimination Period will be required before further Monthly Benefits become payable; b. Benefit Period and Exclusions, and Limitations apply to the Recurrent Disability than 6 months after the prior Disability benefits ended.
+<EOS>
+Q: What is the maximum period if a Recurrent Disability payments are payable?
+A: Based on Lincoln Policy 529321 page 26 applied to the prior Disability.
+<EOS>
+Q: When does an Employee's initial coverage become effective according to the policy?
+A: Based on Lincoln Policy 5293231.pdf page 3, an Employee's initial amount of coverage becomes effective at 12:01 a.m. on the latest of the first day of the Insurance Month coinciding with or next following the date the Employee becomes eligible for the coverage, the date the Employee resumes Active Work, if not Actively at Work on the day he or she becomes eligible, the date the Employee makes written application for coverage and signs a payroll deduction order, if the Employees pay any part of the Policy premium, or the date the Company approves the Employee's Evidence of Insurability, if required.
+<EOS>
+Q: How does the policy handle an increase in coverage for an Insured Employee?
+A: Based on Lincoln Policy 5293231.pdf page 4, any increase in coverage becomes effective on the first day of the Insurance Month coinciding with or next following the date of the change, except as stated in the Effective Date provision for increases or decreases.
+<EOS>
+Q: What is the reinstatement period for an Insured Employee under this policy?
+A: Based on Lincoln Policy 529321E.pdf page 42, reinstatement or sickness, reinstatement is available upon return from an approved Family or Medical Leave within: a. the 12 weeks required by federal law; or b. any longer period required by a similar state law; c. any other approved leave of absence within six months after the leave begins; d. lay off; e. termination of employment for any other reason, and will be effective upon resuming Active Work in an Eligible Class. The reinstated amount of insurance may not exceed the amount that terminated; 2. To reinstate coverage, the Employee must apply for coverage or be re-enrolled within 31 Injury or Sickness. Based on Lincoln Policy 52932 Disability due to a Pre-Existing Condition if: 1) was insured by the prior carrier's policy at the time of transfer; and 2) was not Actively-At-Work at the time of transfer; and 3) suffers a Total Disability within 90 days after the same as provided by the prior carrier's policy would have been in effect, had it remained in force; minus any benefits paid or payable under the prior carrier's policy. 2. Any new Pre-Existing Condition Exclusion will apply to any increased amount of insurance.
+<EOS>
+Q: What are the rules for questions in this document?
+A: Based on Lincoln Policy 529323 for a period of Disability. Questions should be specific and focused, questions on key policy details, medical or surgical expense; attorney fees and other costs of claiming Other Income Benefits; group credit or mortgage disability insurance benefits; early retirement benefits from Government Retirement Plan; amounts under the Employer’s Retirement Plan that represent contributions received termination employment without being disabled or retired; 401(k), profit-sharing or thrift plan; an individual retirement IRA, tax sheltered annuity TSA; a stock ownership plan non-qualified compensation;  termination employment with disability.
+<EOS>
+Q: What are the exceptions for Other Income Benefits?
+A: Based on Lincoln Policy 5293(IA); a tax sheltered annuity (TSA); a stock ownership plan; or a non-qualified plan of deferred compensation; vacation pay, holiday pay, or severance pay; disability income benefits under any individual policy, association group plan, franchise, liability insurance policy except no fault auto insurance.
+<EOS>
+Q: What is the effective date for an Insured Employee to be covered under the Progressive Income Benefit?
+A: Based on Lincoln Policy 5293231.pdf page 5, the effective date will be either the effective date of his or her coverage for Long Term Disability Benefits under this Policy, or if it is added later by amending this Policy, the effective date will be delayed for an Insured Employee who is unable to perform one or more Activities of Daily Living or suffers from a Cognitive Impairment on that date. In that event, the Insured Employee will become insured for this benefit on the first day he or she is able to safely and completely perform all of the Activities of Daily Living without another person's active, hands-on help, or no longer suffers from a Cognitive Impairment.
+<EOS>
+Q: How much is the amount of the Progressive Income Benefit?
+A: Based on Lincoln Policy 5293231.pdf page 24, the amount will equal 10% of the Insured Employee's Basic Monthly Earnings. The Progressive Disability Benefits and $5,0000 Benefit Benefit will be paid after completion of the Elimination Period shown in the Schedule of Insurance.
+<EOS>
+Q: What requirements or conditions must an Insured Employeesubmit meet to receive this benefit?
+A: Based on Lincoln Policy 529321 loss of Activities of Daily Living or Cognitive Impairment; 2. The Benefit will cease on the date the Maximum Benefit Period ends; or 3. Partial Disability Monthly Benefits under this Policy; or 4. the Insured Employee is able, but chooses not to engage in Partial Disability Employment as defined by the Policy.
+<EOS>
+Q: What happens to the Survivor Benefit after the death of the Insured Employee?
+A: Based on Lincoln Policy 5293231.pdf page [43], any Survivor Benefit will be payable in accordance with the policy's Survivor Benefit section.
+<EOS>
+Q: To whom will other benefits be payable after the death of the Insured Employee?
+A: Based on Lincoln Policy 5293231.pdf page [14], any other benefits will be payable to the Insured Employee's estate.
+<EOS>
+Q: What is the maximum amount that may be paid to a relative of the Insured Employee if the benefit becomes payable to someone who is not legally competent to give a valid receipt?
+A: Based on Lincoln Policy 5293231.pdf page [14], up to $2,000 may be paid to any relative of the Insured Employee that the Company finds entitled to payment if the benefit becomes payable to someone who is not legally competent to give a valid receipt.
+<EOS>
+Q: When does the premium waiver start for an Insured Employee who is Disabled?
+A: Based on Lincoln Policy 5293231.pdf page [21], the premium waiver starts from the first premium due date following the satisfaction of the Elimination Period.
+<EOS>
+Q: For how long are the premiums waived for an Insured Employee who is Disabled?
+A: Based on Lincoln Policy 5293231.pdf page [21], premiums are waived until the end of any period for which benefits are payable.
+<EOS>
+Q: What needs to be done if coverage is to be continued following a period during which premiums were waived?
+A: Based on Lincoln Policy 5293231.pdf page [21], if coverage is to be continued following a period during which premiums were waived, premium payments must be resumed as they become due.

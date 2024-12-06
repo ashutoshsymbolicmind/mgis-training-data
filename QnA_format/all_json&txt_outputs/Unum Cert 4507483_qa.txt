@@ -1,0 +1,8 @@
+Q: What is the name of the Plan Administrator?
+A: Based on your local U.S Security Administration, U.S. Department of Labor. You can find their contact information in the government section of your local library.
+<EOS>
+Q: Can I sue the Plan Administrator if my claim for benefits is denied or ignored?
+A: Yes, you have the right to file a lawsuit in a state or federal court if your claim for benefits is not resolved within a certain time schedule.
+<EOS>
+Q: What are the duties of the people who operate my Plan under ERISA Fiduciaries?
+A: The people who operate your Plan, called "fiduciaries" of the operation of the employee benefit plan. They have a duty to act prudently and in the interest of you and other Plan participants and beneficiaries to do so prudently and in the best interest of you and other Plan participants and beneficiaries. No one, including your Employer or any other person, may discriminate against you for asserting your rights under ERISA.

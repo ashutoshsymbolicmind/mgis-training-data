@@ -1,0 +1,131 @@
+Q: What is the effective date of coverage mentioned in the document?
+A: Based on Unum Cert 4703669.pdf page 2, the effective date of coverage is not explicitly stated.
+<EOS>
+Q: When does the Disability Plus benefits begin?
+A: Based on Unum Cert 4703669.pdf page 19, Disability Plus benefits will begin at the end of the elimination period shown in the LTD plan.
+<EOS>
+Q: What are the activities of daily living that could disqualify a claim under this rider?
+A: Based on Unum Cert 4703669.pdf page 8, a loss of the ability to safely and completely perform any activities of daily living without another person's assistance or verbal cueing is considered for Disability Plus Rider coverage?
+<EOS>
+Q: What is the minimum hours requirement for employees to be eligible for this long term disability plan?
+A: Based on Unum Cert 4703669.pdf page [4], employees must be working at least 30 hours per week.
+<EOS>
+Q: How long should an employee wait before they start receiving disability payments if they were in the eligible group before June 1, 1998?
+A: Based on Unum Cert 4703669.pdf page [4], there is no waiting period for employees in an eligible group on or before June 1, 1998.
+<EOS>
+Q: How long should an employee wait before they start receiving disability payments if they enter the eligible group after June 1, 1998?
+A: Based on Unum Cert 4703669.pdf page [4], employees entering an eligible group after June 1, 1998 have a waiting period of 30 days of continuous active employment.
+<EOS>
+Q: What is the waiting period for employees who were part of an eligible group before June 1, 1998?
+A: Based on Unum Cert 4703669.pdf page 4, there was no waiting period for employees who were part of an eligible group before June 1, 1998.
+<EOS>
+Q: What is the waiting period for employees entering an eligible group after June 1, 1998?
+A: Based on Unum Cert 4703669.pdf page 4, the waiting period for employees entering an eligible group after June 1, 1998 is part of the policy details.
+<EOS>
+Q: What percentage of the cost of coverage under a plan will you be covered at when your Employer pays 100% of the cost?
+A: Based on Unum Cert 4703669.pdf page 28, when your Employer pays 100% of the cost of your coverage under a plan, you will be covered at 12:01 a.m. on the date you are eligible for coverage.
+<EOS>
+Q: What is the elimination period according to Unum Cert 4703669.pdf?
+A: Based on Unum Cert 4703669.pdf page 21, the elimination period is 180 days.
+<EOS>
+Q: How many activities of daily living must a claimant lose ability to perform in order to be considered disabled under this policy?
+A: Based on Unum Cert 4703669.pdf page 17, the claimant must lose the ability to safely and completely perform 2 activities of daily living without another person's assistance or verbal cueing.
+<EOS>
+Q: What is the maximum monthly Disability Plus benefit according to this policy?
+A: Based on Unum Cert 4703669.pdf page 13, the maximum monthly Disability Plus benefit is the lesser of the LTD plan maximum monthly benefit or $5,000.
+<EOS>
+Q: specific question here?
+A: technical answer here
+<EOS>
+Q: What is the maximum number of days for the elimination period according to this policy?
+A: Based on Unum Cert 4703669.pdf page 21, the maximum number of days for the elimination period is 180.
+<EOS>
+Q: What is the continuous period of time that an employee must be in active employment to become eligible for coverage under a plan?
+A: Based on Unum Cert 4703669.pdf page 27, it is the Waiting Period as stated in each plan.
+<EOS>
+Q: What constitutes a pre-existing condition according to this policy?
+A: Based on Unum Cert 4703669.pdf page 13, a pre-existing condition is a condition for which an employee received medical treatment, consultation, care or services during the given period of time as stated in the plan, or had symptoms for which an ordinarily prudent person would have consulted a health care provider according to generally accepted medical standards.
+<EOS>
+Q: How are part-time work and earnings defined under this policy?
+A: Based on Unum Cert 470369.pdf page 12, Part-Time basis means the ability to work and earn between 20% and 80% of your indexed monthly earnings you would have earned in your last actively working for a disability begins. For all other occupations, it refers to the occupation you were primarily performing at the time your disability begins.
+<EOS>
+Q: What is the minimum hours requirement for employees to be eligible for this long term disability plan?
+A: Based on Unum Cert 4703669.pdf page 4, Employees must be working at least 30 hours per week.
+<EOS>
+Q: How long is the waiting period for employees who were in an eligible group before June 1, 1998?
+A: Based on Unum Cert 4703669.pdf page 4, For employees in an eligible group on or before June 1, 1998, there is no waiting period.
+<EOS>
+Q: What is the maximum benefit an employee can receive per month according to this plan?
+A: Based on Unum Cert 4703669.pdf page 28, The monthly benefit is 60% of the employee's monthly earnings with a maximum benefit of $15,000 per month.
+<EOS>
+Q: What is the minimum duration of disability for a claimant to receive the survivor benefit?
+A: Based on Unum Cert 4703669.pdf pages [5, 19], the minimum duration of disability for a claimant to receive the survivor benefit is 180 or more consecutive days.
+<EOS>
+Q: How long can an individual go without making premium payments during their coverage under this plan?
+A: Based on Unum Cert 4703669.pdf pages [5, 19], no premium payments are required for your coverage while you are receiving payments under this plan, regardless of age (except for Age 69 and over which requires payments after 12 months).
+<EOS>
+Q: What is the timeframe for Unum to pay the eligible survivor a lump sum benefit upon proof of death?
+A: Based on Unum Cert 4703669.pdf pages [5, 19], upon receiving proof that you have died, Unum will pay your eligible survivor a lump sum benefit equal to 3 months of your gross disability payment within an undefined timeframe after the date of death, provided the disability had continued for 180 or more consecutive days and you were receiving or were entitled to receive payments under the plan.
+<EOS>
+Q: What is the minimum benefit period for individuals aged 68 and above?
+A: Based on Unum Cert 4703669.pdf page 5, the minimum benefit period for individuals aged 68 and over is 12 months.
+<EOS>
+Q: Is there a difference in the minimum benefit period for individuals below age 68?
+A: Yes, based on Unum Cert 4703669.pdf page 5, the minimum benefit period for individuals aged 68 and younger is 18 months.
+<EOS>
+Q: Are premium payments required during the minimum benefit period for this plan?
+A: Based on Unum Cert 4703669.pdf pages 5 and 15, no premium payments are required for your coverage while you are receiving payments under this plan during the minimum benefit period.
+<EOS>
+Q: What are the eligibility conditions for a Survivor Benefit in Unum Cert 4703669.pdf?
+A: Based on Unum Cert 4703669.pdf page 5, to be eligible for the Survivor Benefit under this plan, your disability must have continued for 180 or more consecutive days, and you must have been receiving or been entitled to receive payments under the plan at the time of death.
+<EOS>
+Q: What is the duration of the Survivor Benefit lump sum payment in Unum Cert 4703669.pdf?
+A: Based on Unum Cert 4703669.pdf page 5, the Survivor Benefit paid to your eligible survivor is a lump sum equal to 3 months of your gross disability payment.
+<EOS>
+Q: What happens if there is no eligible survivor in Unum Cert 4703669.pdf?
+A: Based on Unum Cert 4703669.pdf page 5, if you have no eligible survivors, the Survivor Benefit will be paid to your estate, unless there is none. In this case, no payment will be made. However, it will first apply the survivor benefit to any overpayment which may exist on your claim.
+<EOS>
+Q: Which mental illnesses does Unum's plan not apply the limitation to if they are a result of stroke, trauma, viral infection, Alzheimer's disease, or other conditions not listed which are not usually treated by a mental health provider?
+A: Based on Unum Cert 4703669.pdf page [17], the plan does not apply the mental illness limitation to disabilities caused by stroke, trauma, viral infection, Alzheimer's disease, or other conditions not listed which are not usually treated by a mental health provider using psychotherapy, psychotropic drugs, or other similar methods of treatment.
+<EOS>
+Q: What type of disabilities does Unum's plan not cover?
+A: Based on Unum Cert 4703669.pdf page [17], the plan does not cover any disabilities caused by, contributed to by, or resulting from mental illnesses or conditions that are not covered under the plan.
+<EOS>
+Q: What is the maximum period of payment for mental illnesses under Unum's plan?
+A: Based on Unum Cert 4703669.pdf page [17], there is a limited pay period and a maximum period of payment for mental illnesses under Unum's plan, but the exact duration is not specified in the provided document.
+<EOS>
+Q: What is defined as a pre-existing condition according to Unum Cert 4703669.pdf?
+A: Based on Unum Cert 4703669.pdf page [17, 19], a pre-existing condition is one where the individual received medical treatment, consultation, care or services including diagnostic measures, or took prescribed drugs or medicines for their condition during the 3 months prior to their effective date of coverage; or they had symptoms for which an ordinarily prudent person would have consulted a health care provider during the same period.
+<EOS>
+Q: Within what time frame after the effective date of coverage does a disability begin in order for it to be considered as a pre-existing condition?
+A: Based on Unum Cert 4703669.pdf page [17, 19], a disability that begins in the first 12 months after the effective date of coverage is considered a pre-existing condition if it meets the criteria defined as such.
+<EOS>
+Q: What happens if an individual returns to work full time and their disability occurs again, as stated in Unum Cert 4703669.pdf?
+A: Based on Unum Cert 4703669.pdf page [28], if an individual has a recurrent disability, Unum will treat it as part of their prior disability when the plan becomes effective. In this case, Unum will provide coverage for the individual if they were not in active employment because of a sickness or injury and were covered by the prior policy, with payment limited to the amount that would have been paid by the prior carrier. If the individual does not satisfy these conditions, Unum will not make any payments.
+<EOS>
+Q: What is the condition for Unum to pay a lump sum survivor benefit?
+A: Based on Unum Cert 4703669.pdf page [19], Unum will pay a lump sum survivor benefit equal to 3 months of your gross disability payment if, on the date of your death, your disability had continued for 180 or more consecutive days and you were receiving or were entitled to receive payments under the plan.
+<EOS>
+Q: What happens if an individual is not in active employment when their employer changes insurance carriers to Unum?
+A: Based on Unum Cert 4703669.pdf page [19], when the plan becomes effective, Unum will provide coverage for you if you are not in active employment because of a sickness or injury and were covered by the prior policy. Your coverage is subject to payment of premium, and your payment will be limited to the amount that would have been paid by the prior carrier.
+<EOS>
+Q: Under what conditions can Unum send a payment if an individual's disability results from a pre-existing condition when their employer changes insurance carriers to Unum?
+A: Based on Unum Cert 4703669.pdf page [19], Unum may send a payment if your disability results from a pre-existing condition if, on the effective date of the new plan, you were in active employment and insured under the plan, and were insured by the prior policy at the time of change. To receive a payment, you must satisfy the pre-existing condition provision either under the Unum plan or the prior carrier's plan, if benefits would have been paid had that policy remained in force. If you do not satisfy these conditions, Unum will not make any payments.
+<EOS>
+Q: What happens to the premium for Disability Plus coverage while you are receiving monthly payments under the LTD plan?
+A: Premium for the Disability Plus coverage is not required while you are receiving monthly payments under the LTD plan. (Unum Cert 4703669.pdf page 22)
+<EOS>
+Q: When does the Waiver of Premium for Disability Plus end?
+A: The Waiver of Premium for Disability Plus ends on the earliest of the following dates: the date you are no longer disabled under the Rider, the date you become ineligible for monthly payments under the LTD plan, the end of the maximum period of payment shown in the LTD plan, or the date you die. (Unum Cert 4703669.pdf page 22)
+<EOS>
+Q: Are survivor benefits payable for Disability Plus coverage?
+A: No, no survivor benefits are payable for the Disability Plus coverage. (Unum Cert 4703669.pdf page 22)
+<EOS>
+Q: What is a worksite modification and how can it help an employee return to work?
+A: A worksite modification might be needed to allow an employee to perform the material and substantial duties of their regular occupation with their employer. It helps in allowing them to remain at work or return to work, as one of Unum's designated professionals will assist in identifying a modification that is agreed upon by all parties and reimburses the employer for the cost of the modification up to the greater of $1,000 or the equivalent of 2 months of the employee's monthly benefit.
+<EOS>
+Q: How does Unum's vocational rehabilitation program function?
+A: Unum has a vocational rehabilitation program available as a service, and it is voluntary for both the employee and Unum. The claims paying personnel may refer the employee to this program, or the employee can request a review of their claim file by one of Unum's rehabilitation professionals. Medical and vocational information will be analyzed to determine if rehabilitation services might help the employee return to gainful employment. If deemed appropriate, Unum may offer a return-to-work program.
+<EOS>
+Q: Is there a limit on the number of times an employee can receive assistance through Unum's rehabilitation service for worksite modification?
+A: Based on Unum Cert 4703669.pdf page [24], this benefit is available to an employee on a one-time only basis.

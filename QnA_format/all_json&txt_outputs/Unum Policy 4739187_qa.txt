@@ -1,0 +1,89 @@
+Q: What is the minimum hours requirement for employees to be eligible for the short-term disability plan?
+A: Based on Unum Policy 4739187.pdf page [3, 5], Employees must be working at least 25 hours per week.
+<EOS>
+Q: How long is the waiting period for employees in an eligible group before they can receive disability payments under the short-term disability plan?
+A: Based on Unum Policy 4739187.pdf page [3, 5], For employees in an eligible group on or before February 1, 2008, the waiting period is the first of the month coincident with or next following 90 days of continuous active employment. For employees entering an eligible group after February 1, 2008, there is no waiting period.
+<EOS>
+Q: What percentage of monthly earnings will be paid as disability benefits under the long-term disability plan?
+A: Based on Unum Policy 4739187.pdf page [5], The monthly benefit under the long-term disability plan is 60% of monthly earnings to a maximum benefit of $5,000 per month.
+<EOS>
+Q: What is the elimination period for a disability claim as per Unum Policy 4739187.pdf?
+A: Based on Unum Policy 4739187.pdf page 27, the elimination period is 90 days.
+<EOS>
+Q: What are "disability earnings" as per the policy document?
+A: Based on Unum Policy 4739187.pdf page 5, disability earnings refer to the wages or salary earned by the claimant while he/she is disabled.
+<EOS>
+Q: How is the payment calculated when the claimant has both disability earnings and a gross disability payment?
+A: Based on Unum Policy 4739187.pdf page 24, during the first 12 months of payments, while working, the monthly payment will not be reduced as long as disability earnings plus the gross disability payment does not exceed 100% of indexed monthly earnings. After 12 months, the payment is based on the percentage of income lost due to disability. The calculation involves adding monthly disability earnings and gross disability payment (before deductible sources of income are considered), comparing the sum with the indexed monthly earnings for at least 20 hours per week or more frequently than your customary duties of that position.
+<EOS>
+Q: What is the minimum weekly payment under the Minimum Benefit in Unum Policy 4739187.pdf?
+A: Based on Unum Policy 4739187.pdf page [4], the minimum weekly payment is $25.
+<EOS>
+Q: What happens to this minimum weekly payment if subtracting deductible sources of income results in a zero benefit under the Minimum Benefit?
+A: Based on Unum Policy 4739187.pdf page [4], Unum may apply this amount toward an outstanding overpayment.
+<EOS>
+Q: Are there any limits to the dependent care expense benefit amount and maximum benefit amount in Unum Policy 4739187.pdf?
+A: Based on Unum Policy 4739187.pdf page [22], the Dependent Care Expense Benefit Amount is $350 per month, per dependent, with a maximum benefit amount of $1,000 per month for all eligible dependent care expenses combined.
+<EOS>
+Q: What is the amount paid per dependent, per month for the Dependent Care Expense Benefit when participating in Unum's Rehabilitation and Return to Work Assistance program?
+A: Based on Unum Policy page 6, the benefit will be $350 per month, per dependent.
+<EOS>
+Q: What is the maximum amount for all dependent care expenses combined while participating in the Rehabilitation and Return to Work Assistance program?
+A: Based on Unum Policy page 6, the maximum amount will not exceed $1,000 per month.
+<EOS>
+Q: When do Dependent Care Expense Benefits end for a dependent?
+A: The Benefits will end on the earlier of the following:
+<EOS>
+Q: What is the Survivor Benefit under Unum Policy 4739187.pdf?
+A: Based on Unum Policy 4739187.pdf page [7, 36], the Survivor Benefit is a lump sum benefit equal to 3 months of the gross disability payment, payable to an eligible survivor if the insured person's disability had continued for 180 or more consecutive days and they were receiving or entitled to receive payments under the plan at the time of their death.
+<EOS>
+Q: Under what circumstances can a terminally ill policyholder elect to receive the Survivor Benefit prior to their death?
+A: Based on Unum Policy 4739187.pdf page [7, 36], a terminally ill policyholder can elect to receive the Survivor Benefit if they have been diagnosed with a terminal illness or condition, their life expectancy has been reduced to less than 12 months, and they are currently receiving monthly payments.
+<EOS>
+Q: What happens to the Survivor Benefit if there are no eligible survivors or if there is no remaining debt on the policyholder's account?
+A: Based on Unum Policy 4739187.pdf page [7, 36], if there are no eligible survivors and there is no remaining debt on the policyholder's account, the Survivor Benefit will not be paid out. Instead, any funds remaining in the policyholder's account will be returned to Unum.
+<EOS>
+Q: Is there a Work Life Assistance Program available with the plan according to Unum Policy 4739187.pdf?
+A: Based on page 7 of Unum Policy 4739187.pdf, yes, we provide you and your dependents access to a work life assistance program designed to assist you with problems of daily living.
+<EOS>
+Q: How can this Work Life Assistance Program be accessed according to the document?
+A: Based on page 40 of Unum Policy 4739187.pdf, this program can be accessed by a 1-800 telephone number available 24 hours a day, 7 days a week or online through a website. Information about this program can be obtained through your plan administrator.
+<EOS>
+Q: Can Unum help an employer identify and provide worksite modifications according to the document? If so, how?
+A: Based on page 40 of Unum Policy 4739187.pdf, yes, one of our designated professionals will assist you and your Employer to identify a modification we agree is likely to help you remain at work or return to work. This agreement will be in writing and must be signed by you, your Employer, and Unum. When this occurs, Unum will reimburse your Employer for the cost of the worksite modification.
+<EOS>
+Q: What is the initial premium for Short Term Disability under Unum Policy 4739187.pdf?
+A: The initial premium for Short Term Disability under this policy is based on the initial rate(s) shown in the Rate Information Amendment(s).
+<EOS>
+Q: Is it necessary to make premium payments while receiving Short Term Disability benefits under this policy?
+A: Yes, premium payments are required while an insured is receiving Short Term Disability payments under this policy.
+<EOS>
+Q: Does the policy offer Waiver of Premium for Long Term Disability benefits? If yes, when does it apply?
+A: Yes, Unum does not require premium payments for an insured while he or she is receiving Long Term Disability payments under this plan. This waiver applies during the period of Long Term Disability payments.
+<EOS>
+Q: What is the maximum length of coverage for an employee during a family and medical leave of absence as per Unum Policy 4739187.pdf?
+A: Based on Unum Policy 4739187.pdf page [14], the coverage will be continued until the end of the later of: 1. the leave period required by the federal Family and Medical Leave Act of 1993 and any amendments; or 2. the leave period required by applicable state law.
+<EOS>
+Q: Does Unum apply a new pre-existing conditions exclusion if an employee goes on a family and medical leave of absence?
+A: Based on Unum Policy 4739187.pdf page [14], Unum will not apply a new pre-existing conditions exclusion when an employee goes on a family and medical leave of absence.
+<EOS>
+Q: When does the plan consider a disability as a pre-existing condition according to Unum Policy 4739187.pdf?
+A: Based on Unum Policy 4739187.pdf page [45], you have a pre-existing condition if you received medical treatment, consultation, care or services including diagnostic measures, or took prescribed drugs or medicines in the 3 months just prior to your effective date of coverage and the disability begins in the first 12 months after your effective date of coverage.
+<EOS>
+Q: Are there any specific conditions for continued payments beyond the 24 month period for mental illness under Unum Policy 4739187.pdf?
+A: Yes, according to page [34], payments can continue beyond the 24 month period if the individual is confined to a hospital or institution at the end of the 24 month period, or if they continue to be disabled and subsequently become confined to a hospital or institution for at least 14 days in a row after the 24 month period.
+<EOS>
+Q: What happens when an individual is discharged from confinement during the recovery period specified by Unum Policy 4739187.pdf?
+A: If an individual is discharged during the recovery period, Unum will continue to send payments for a recovery period of up to 90 days if they remain disabled. If they become reconfined at any time during this additional recovery period and remain confined for at least 14 days in a row, Unum will send payments for one more recovery period up to 90 more days.
+<EOS>
+Q: What mental illnesses are not subjected to the limitation outlined in Unum Policy 4739187.pdf?
+A: According to page [34], dementia caused by stroke, trauma, viral infection, Alzheimer's disease, or other conditions not listed which are not usually treated by a mental health provider or other qualified provider using psychotherapy, psychotropic drugs, or other similar methods of treatment will not be subjected to the mental illness limitation.
+<EOS>
+Q: What is a worksite modification?
+A: A worksite modification, based on Unum Policy 4739187.pdf page [40], might be what is needed to allow you to perform the material and substantial duties of your regular occupation with your Employer.
+<EOS>
+Q: How does Unum assist in identifying a suitable worksite modification?
+A: One of our designated professionals will assist you and your Employer to identify a modification we agree is likely to help you remain at work or return to work, based on Unum Policy 4739187.pdf page [40]. This agreement will be in writing and must be signed by you, your Employer and Unum.
+<EOS>
+Q: What financial assistance does Unum provide for worksite modifications?
+A: When a worksite modification occurs, Unum will reimburse your Employer for the cost of the modification, up to the greater of: - $1,000; or - the equivalent of 2 months of your monthly benefit. This benefit is available to you on a one time only basis, based on Unum Policy 4739187.pdf page [40].
