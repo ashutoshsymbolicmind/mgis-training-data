@@ -1,0 +1,20 @@
+According to Unum Policy 4739187.pdf, your eligibility for disability benefits follows specific guidelines outlined across multiple sections of the document. Your elimination period, usually 90 days, must be met before payments commence, assuming you're disabled. Once approved, monthly payments will be sent if Unum is liable, continuing for each period of disability thereafter.
+
+During the first 12 months, your payment won't be reduced while working, provided the combined disability earnings and gross disability payment don't exceed 100% of your indexed monthly earnings. After this period, payments adjust based on the percentage of income of time following the premium due date during which premium payment may be made.
+
+The document also details recurrent disability benefits, allowing for continuation of prior claims if they occur within 6 months from the end of the previous claim and specific insurance coverage conditions are met. Any subsequent disability claims occurring after 6 months will be treated as new claims subject to all policy provisions, including a new elimination period.
+
+Proof of your claim is required for approval, and Unum may request appropriate financial records to substantiate your income. If your disability earnings are less than 20% of your indexed monthly earnings, you'll receive the full payment. For disability earnings between 20% through 80%, the payment will be adjusted based on the calculation provided in the policy.
+
+Lastly, gross disability payment refers to the benefit amount before any deductible sources of income or disability earnings are considered under the Policy. Indexed monthly earnings is defined as your average monthly earnings over a period of [1240 hours per week specified in your Employer's eligibility requirements for active employment.
+<EOS>
+In the context of an eligible physician for your disabling condition(s) necessitates;
+   - You receive ongoing medical treatment and follow prescribed treatments. This may include regular visits to specialists or allied healthcare professionals as recommended by your primary care physician's standards for your specific condition(s).
+
+   Regular Care is essential to ensure proper management of your disabling condition(s) and to maintain eligibility for long-term disability benefits from Unum Life Insurance Company of America. Failing to receive regular care may jeopardize your ability to continue receiving benefits, as it demonstrates a lack of commitment to your health and recovery.
+
+   It is important to note that self-reported symptoms should be supplemented with objective medical evidence to support your claim for disability benefits. This includes test results, procedures, or clinical examinations standardly accepted in the practice of medicine that validate your reported symptoms.
+
+   Unum Life Insurance Company of America will not recognize any family members (spouse, children, parents, etc.) as physicians for the purposes of evaluating a claim. It is crucial to seek care from qualified medical professionals who are licensed to practice medicine and can accurately assess and treat your disabling condition(s).
+
+   Regular Care is a critical component in demonstrating that your disability is not due to self-reported symptoms alone, but rather backed by objective evidence that supports the need for ongoing treatment and care. This helps ensure that you receive the benefits you are entitled to under the terms of the policy.

@@ -1,0 +1,21 @@
+This information is derived from Lincoln Policy 4939955.pdf, spread across pages 3, 4, 6, 7, 9, 10, 13, 19, 22, 23, 25, and 30. It outlines the rules for Recurrent Disability benefits, which are treated differently based on whether a new Disability begins or the Recurrent Disability is part of the prior Disability.
+
+If a new Disability starts, the Insured Employee or former Employee must earn less than the specified percentage of Predisability Income to qualify for a Monthly Benefit. The amount will be subject to all terms of the Policy applicable at the time the prior Disability began. However, this Recurrent Disability provision ceases to apply if the Insured Employee or former Employee becomes eligible for coverage under any other group long-term disability plan.
+
+If the Recurrent Disability is part of the prior Disability, the Predisability Income used in determining the prior Disability benefit will apply. The benefits reinstated under this provision are subject to the Policy's terms and conditions at the time the prior Disability began. To qualify for a Monthly Benefit, the Insured Employee or former Employee must still earn less than the specified percentage of Predisability Income.
+<EOS>
+The provided definition for "Recurrent Disability" outlines the conditions under which a Recurrent Disability will be considered either a new or part of a prior Disability.
+
+A Recurrent Disability is deemed as a new Disability if it occurs after the return of the Insured Employee to his/her own Occupation with the Employer for less than six consecutive months following the end of the prior Disability benefits;
+   or other organic brain disease, or
+   2. a progressive neurological disorder irreversible.
+
+In cases such as these, psychotropic drugs, or similar methods of treatment. A Recurrent Abuse" refers to the excessive use, misuse or dependency on any mood or depressive drug" includes, but is not limited to, medical facility or program) that provides treatment for Substance Abuse. is licensed, certified or approved as a Treatment Center by the state where it is located;
+   2. a registered nurse on duty or on call at all times; and
+   3. offers treatment options such as counseling, group therapy, detoxification, relapse prevention, and medication management.
+
+The term "Hospital" in this context encompasses:
+1. A mental hospital when treating mental sickness; this refers to a health care facility (or its psychiatric unit) that meets specific criteria, including being licensed, certified or approved as a mental hospital by the state where it is located, having the necessary equipment to treat resident patients with mental diseases or disorders, and having a resident psychiatrist on duty or on call at all times.
+2. A treatment center when treating substance abuse; this refers to a health care facility (or its medical or psychiatric unit) that meets specific criteria, including being licensed, certified or approved by the state where it is located, having a registered nurse on duty or on call at all times, and offering treatment options such as counseling, group therapy, detoxification, relapse prevention, and medication management.
+3. A Mental Hospital in this context refers to a health care facility that specializes in the treatment of mental sickness. The term "Mental Sickness" includes various emotional, behavioral, psychological, personality, adjustment, mood or stress-related abnormalities, disorders, disturbances, dysfunctions, or syndromes. It does not include irreversible dementia resulting from conditions such as stroke, trauma, viral infection, Alzheimer's disease, or other conditions that are not usually treated by a mental health care provider using psychotherapy, psychotropic drugs, or similar methods of treatment.
+4. A Treatment Center in this context refers to a health care facility that specializes in the treatment of substance abuse, such as alcoholism, drug abuse, or chemical dependency of any type. The term "Treatment" includes various options such as counseling, group therapy, detoxification, relapse prevention, and medication management.

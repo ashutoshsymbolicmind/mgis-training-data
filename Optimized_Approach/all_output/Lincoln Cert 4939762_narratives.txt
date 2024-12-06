@@ -1,0 +1,73 @@
+The document, Lincoln Cert 4939762.pdf, provides details about a Medical Premium supplemental benefit under an insurance policy. This provision applies when the Insured Employee experiences a Total Disability or Partial Disability following a Qualifying Event and during this period, they will continue to receive medical plan coverage.
+
+If the Insured Employee has a Pre-Existing Condition, the benefit will not be payable before their effective date under this Medical Premium Benefit provision, which is three months prior to the onset of disability. The document also specifies that the benefit excludes accident only, dental, vision, stand-alone prescription drug, or long-term care coverage.
+
+This benefit is subject to all Definitions, Exclusions, Claims Procedures, Waiver of Premium, and other provisions in the Policy. The Qualifying Event will be as described in the Employer's Procedures, Waiver of Premium and other provisions of the Policy.
+
+The document further explains that "Treatment" includes consultation, care or services provided by a Physician. It also includes diagnostic measures and the prescription, refill of prescription, or taking any prescribed drugs or medicines during a period prior to the Insured Employee's coverage under the Policy or before the effective date of this provision.
+
+The document clarifies that "COBRA" means the Consolidated Omnibus Budget Reconciliation Act of 1985, Partial Disability caused by any Sickness or Injury for which the Insured Employee received Treatment within 3 months prior to the Insured Employer's Medical Plan. The first 24 consecutive months after the Insured Employee effective date under this provision.
+
+Finally, if the Employer's previous group long term disability plan requirements for this benefit, if a similar benefit was included under the Employer's covered on the date prior to the effective date of this provision. HIPAA, the Employe was covered on the prior to the effective date of this provision.
+<EOS>
+This information comes from Lincoln Cert 4939762.pdf found on pages 1, 2, 3, 5, 10, 14, 15, 26, 27, 28, 33, and 34. It clarifies that the Medical Premium Benefit is subject to certain exclusions and limitations.
+
+   The benefit will not be payable during a period of Total Disability or Partial Disability which begins before the Insured Employee's effective date of coverage under the Policy or before the effective date of this Medical Premium Benefit provision, if added later by amending the Policy (Exclusions and Limitations - Prior Disability).
+
+   Furthermore, the benefit will not be payable for any Total Disability or Partial Disability which is caused or contributed to by, or results from a Pre-Existing Condition (as defined in this provision) that begins within the first 12 months after the Insured Employee's effective date under this provision (Exclusions and Limitations - Pre-Existing Condition Limitation).
+
+   It is also important to note that Prior Insurance Credit will be applied toward satisfying the Pre-Existing Condition Limitation under this Medical Premium Benefit provision if a similar benefit was included under the Employer's prior group long term disability plan in which the Insured Employee was covered on the date prior to the effective date of this provision (Prior Insurance Credit).
+
+   The document also includes various definitions for technical terms such as Qualifying Event, Treatment, and Total Disability or Partial Disability. It is recommended to refer to these pages for a comprehensive understanding of these terms and their context within the Medical Premium Benefit.
+<EOS>
+This information is drawn from Lincoln Certificate 4939762.pdf, specifically pages 2, 9, 14, 15, and 39. Eligible employees can acquire insurance coverage under the policy upon completion of the Waiting Period, during which prior service in an eligible class may be applied if certain conditions are met: rehire within a year post-employment, return from approved Family or Medical Leave (federal or state law) or Military Leave (USERRA law). The effective date for an employee's initial coverage is the latest of their eligibility date, resumption of active work, or the completion of the Waiting Period. Full-time employees working 30 hours per week are eligible and do not contribute to the cost of the coverage. The Plan's fiscal year ends on April 30th of each year, with no relevant Collective Bargaining Agreements and no specified trustees mentioned in the provided documentation.
+<EOS>
+This information is derived from Lincoln Cert 4939762.pdf found on pages 2, 4, 19, 21, and 39. The Total Disability Monthly Benefit is payable to an Insured Employee who becomes Totally Disabled, meets the requirements under the plan, and continues under a Physician's regular care. The benefit ceases when the Insured Employee recovers, dies, Maximum Benefit Period ends, or chooses not to engage in Partial Disability Employment during the specified periods.
+
+The Total Disability Monthly Benefit is calculated as the Insured Employee's Basic Monthly Earnings multiplied by the Benefit Percentage (as per the Schedule of Benefits). The schedule limits the Total Disability Monthly Benefit, Maximum Monthly Benefit, Minimum Monthly Benefit, and Maximum Benefit Period. The amount may be denied or suspended if the Insured Employee fails to comply with medical exams, cooperate with examiners, postpones a required exam more than twice, fails to provide additional proof within 45 days of request, or neglects to apply for any Other Income Benefits without good cause.
+
+The Plan is applicable to full-time employees working at least 30 hours per week, with eligibility on the first day of active full-time employment. Employees are not required contribute to the cost of the coverage. The Plan's fiscal year ends: Administrator are not mentioned in the document provided.
+
+The Critical dates include April 30th of each year for the Plan's fiscal year. No Collective Bargaining Agreements, the relevant names, titles and addresses of each Trustee are specified.
+<EOS>
+This sequence appears to be an unordered list of numbers. To find a pattern, let's first sort the list: [9, 11, 16, 19, 20, 25, 26, 39].
+
+The smallest difference between consecutive numbers in this sorted sequence is |16 - 11| = 5. However, there are no pairs of consecutive numbers that differ by exactly 5 or any smaller value.
+
+Looking at the differences between consecutive numbers: [5, 5, 3, 1, 1, 4, 3]. The smallest difference here is 1, which occurs twice. We can also notice that every other difference is either 1 or 3.
+
+Since this sequence does not seem to follow a clear mathematical progression, it may be a list of unique numbers without any inherent pattern. It could represent data from different categories, such as ages, heights, or scores in various subjects. To find the hidden meaning behind this sequence, more context would be required.
+<EOS>
+This information from Lincoln Cert 4939762.pdf details the Group Long Term Disability Insurance for Innovative Anesthesia Management, LLC employees, as outlined on pages 2, 7, 8, 9, 19, 20, 30, and 39. The policy covers full-time employees working at least 30 hours per week, with eligibility starting from the first day of active employment. There is no employee contribution required for this coverage, and the Plan's fiscal year ends on April 30th.
+
+The policy provides Long Term Disability benefits, but vocational rehabilitation may be available if the Insured Employee has a disability that prevents them from performing their regular occupation and lacks the skills needed for any other gainful employment (after the Own Occupation Period). The Company will determine eligibility and the amount of any benefit payable based on the cost of services being less than its expected claim liability.
+
+Additional benefits may include vocational evaluation, counseling, training, job placement, job modification or special equipment, and other necessary services to help the Insured Employee return to work. The policy does not cover any period of Disability for an Insured Employee who has received Vocational Rehabilitation Benefit) and failed to complete the Program without Good Cause.
+
+Good Cause is documented physical or mental impairments, medical program, or other vocational rehabilitation program conflicting with completing a Program developed by the Company; and is reasonably expected to return the Insured Employee to work. The Program must be written and describes its goals, responsibilities, times, dates, and costs of the rehabilitation services.
+<EOS>
+This information hails from Lincoln Cert 4939762.pdf, primarily from pages 3 and 30. It outlines the Voluntary Vocational Rehabilitation Benefit provision for Disabled Insured Employees who are receiving Policy benefits. The benefit offers services such as vocational evaluation, counseling, training, job placement, job modification or special equipment, and other reasonable necessary services to help employees return to work.
+
+The Company decides the employee's eligibility and the amount of any payable Benefit. Eligibility requirements include: having a Disability that prevents the performance of their regular occupation and lacking skills for any other gainful occupation after the Own Occupation Period; possessing the physical and mental abilities to complete a Program; and being reasonably expected to return to work after completing the Program, considering their degree of motivation and labor force demand for workers in the proposed occupation.
+
+The Company's expected claims liability must also be less than the cost of the proposed services. The amount of any Vocational Rehabilitation Benefit will not exceed the Company's expected claims liability, nor be payable for services covered under the employee's health care plan or any other vocational rehabilitation program.
+
+Payment may be made to the provider of the services at the Company's discretion. It is essential to note that either the Company, the Insured Employee, or their Physician can first propose vocational rehabilitation. Upon approval by the Company, the Policy's definition of Disability is waived during the rehabilitation period and costs of the rehabilitation services.
+<EOS>
+In accordance with Lincoln Cert 4939762.pdf, an insured employee may receive a Total Disability Monthly Benefit when Totally Disabled and unable to engage in any occupation after the Elimination Period if covered for Long Term Disability Benefits under the policy. The benefit amounts to 10% of the Insured Employee's Basic Monthly Earnings, with the Maximum Monthly Benefit capping it at the maximum limit for Long Term Disability Benefits or $5,000. This benefit will not commence until the Insured Employee can safely and completely perform all Activities of Daily Living without assistance or no longer suffers from a Cognitive Impairment.
+
+The Total Disability Monthly Benefit ceases on the earliest date that the Insured Employee recovers, dies, or chooses not to engage in Partial Disability Employment during the Own Occupation Period or after it. Proportional benefits are paid for a partial month of Total Disability. The Company reserves the right to deny or suspend payments if the Insured Employee fails to comply with medical exams, cooperate with the examiner, postpone required exams more than twice, or fail to provide proof of continued disability and physician's care within 45 days of request.
+
+The document also outlines the Minimum Monthly Benefit, Maximum Benefit Period, and Benefit Percentage. The effective date of Progressive Income Benefit is upon completion of Long Term Disability Benefits on either the effective date of the policy or suspended unless Minimum Monthly Earnings exceeding 100% of the Insured Employee's of Disability will continue until the Maximum Benefit Period, the date the date the Insured Employee recovers from a Cognitive Impairment or Dies; 2. the Insured Employee is able to engage in Partial Disability Employment chooses not to work in his or her Total Disability Monthly Disability Benefits under the Policy; 3. the date the Maximum Benefit Period ends; or 4. the date the Insured Employee dies.
+<EOS>
+Under
+<EOS>
+According to the Lincoln Cert 4939762
+<EOS>
+This Lincoln Cert 493976
+<EOS>
+This Lincoln Cert 4939762.pdf details a Group Long Term Disability Insurance plan for Innovative Anesthesia Management, LLC employees, administered by the company itself. The Plan is issued by The Lincoln National Life Insurance Company of Fort Wayne, Indiana and has an Employer Identification Number (EIN) 26-4038491 IRS Plan Number 503. Innovative Anesthesia Management, LLC serves as the Sponsor and Plan Administrator, managing functions such as contributions, record maintenance, and insurance carrier selection.
+
+The Lincoln National Life Insurance Company holds sole discretionary authority over eligibility determination and claims administration (excluding California employers or residents). The plan benefits are Long Term Disability Insurance, with the cost borne entirely by the company. Employees working at least 30 hours per week are eligible, starting on their first day of full-time employment.
+
+The fiscal year for this plan ends on April 30th annually, and there are no collective bargaining agreements or trustees involved. The detailed Benefits, Pre-Existing Condition Limitation, Exclusions, and Prior Carrier Credit provisions can be found in the employees' Certificate of Group Insurance. If any documents are misplaced, a replacement can be obtained from the Plan Administrator at no charge.

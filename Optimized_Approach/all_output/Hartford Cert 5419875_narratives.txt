@@ -1,0 +1,123 @@
+In the Hartford Cert 5419875 policy, pre-existing conditions are defined and addressed in specific provisions. If you transition to this policy within 30 days of being covered under a prior one, the pre-existing condition limitation ends on the earliest date among two scenarios: either the policy effective date if there was no pre-existing condition restriction in the previous policy, or the date the restriction would have ended had the prior policy persisted. Any increase in benefit amount due to changes in options, class, or policy itself will not be paid for a disability linked to a pre-existing condition unless it begins after the specified time period (either stated in your certificate or 730 consecutive days of continuous insurance) without medical care for the pre-existing condition.
+
+The definition of a pre-existing condition is any accidental bodily injury, sickness, mental illness, pregnancy, or episode of substance abuse for which you received medical care during the shorter period between your coverage effective date and either the certificate period or a 730-day window ending on the day before your coverage start or any change in coverage.
+
+If you become a surviving spouse, defined as your legal spouse at the time of your death (with domestic partner recognition if you've executed an acceptable Domestic Partner Affidavit), you'll continue to receive survivor income benefits so long as you meet the requirements described in the affidavit.
+
+The Seat Belt and Air Bag Benefit will not be payable if the injured person is operating the vehicle at the time of injury while intoxicated or under the influence of narcotics, unless administered on a physician's advice. The drug exclusion for Accidental Death and Dismemberment benefits now includes injury sustained while under the influence of narcotics, except when administered by a physician. Autopsies must be performed during the period of contestability in South Carolina if required.
+<EOS>
+From the provided document, here are the key points regarding eligibility for coverage:
+
+1. Eligibility for coverage:
+   - The Participating Employer Effective Date.
+   - A member of an Eligible Class.
+   - Completing the Eligibility Waiting Period for Coverage schedule is changed to 180 days, if greater than180 days.
+   - If Waiver of Premium provision:
+     - If Waiver is approved, it will be retroactive to the date the disability began. It will be waived during your active duty in the United States; and
+     2) released under honorable from military service; or
+      3) You are re-employed within 12 of discharge, then you can reinstate your coverage without Evidence of Insurability may continue.
+
+   - Dependent defined as:
+     - Your Spouse and Your dependent Child(ren).
+       - A dependent must be a United States citizen or legal resident.
+       - Any person in full-time military service cannot be considered a dependent, unless that person is subsequently called to military service, and any required premiums are paid.
+
+   - The age limit stated in the Continuation for Dependent Children with Disabilities provision is increased to 21 years old, if less than 21.
+   - Added to the Period of Coverage provisions:
+     - Reinstatement after Military Service:
+       - If:
+         1) Your coverage terminates because you enter active military service in the United States;
+         2) You are released under honorable conditions within 12 months of the date your coverage terminated/within 12 months of the date you return from active military service; and
+       - If you are rehired within 12 months of the date your coverage terminated/within 12 months of the date you returned from active military service, then your coverage for you and your previously covered dependent spouse/dependents may be reinstated, provided you request such reinstatement within a reasonable time.
+
+   Important notes:
+    - The following information comes from the Hartford Cert 541,987 pdf found on pages 8-10.
+    - Present only the crucial details and requirements, without formatting.
+    - Combine related points into single sentences where possible.
+    - Include dates, numbers, and percentages.
+    - Maintain technical terms but integrate them naturally.
+    - No bullet points, line breaks, or structured formatting.
+    - No introductory phrases like "this section covers" or "there are several requirements."
+    - Begin each paragraph with the main topic.
+<EOS>
+Here is a summarized and formatted version of the provided text:
+
+Title: Disability Benefits Calculation Period
+- Description: If you remain disabled after the Elimination Period and are earning 20% or less of your Indexed Pre-disability Earnings?
+  - Step 1: Multiply your Pre-disability Earnings by the Benefit Percentage.
+  - Step 2: Compare the result with the Maximum Benefit.
+  - Step 3: From the lesser amount, deduct Other Income Benefits. The result is your Monthly Benefit.
+
+Title: Return to Work Incentive
+- Description: If you remain disabled after the original date of Disability, or until such time as your Current Monthly Earnings are less than 80% of your Pre-disability Earnings, follow these steps:
+  - Step 1: Multiply your Pre-disability Earnings by the Benefit Percentage.
+  - Step 2: Compare the result with the Maximum Benefit.
+  - Step 3: From the lesser amount, deduct Other Income Benefits. The result is your Monthly Benefit.
+  - Note: Your Current Monthly Earnings will not be used to reduce your Monthly Benefit during this period. However, if the sum of your Monthly Benefit and your Current Monthly Earnings exceeds 100% of your Pre-disability Earnings, we will reduce your Monthly Benefit by the amount of excess. The 12 consecutive month period will start on the last to occur of:
+    - The day you first start work and are earning more than 20% of your Indexed Pre-disability Earnings.
+    - The end of the Elimination Period.
+
+Title: Accidental Dismemberment and Loss of Sight Benefit
+- Description: What benefits are payable for dismemberment or loss of sight due to an Injury? If you are receiving benefits under this section, we will determine your Monthly Benefits as follows:
+  - Step 1: Multiply the amount of the specific benefit by the Benefit Percentage.
+  - Step 2: Compare the result with the Maximum Benefit for that specific benefit.
+  - Step 3: From the lesser amount, deduct Other Income Benefits. The result is your Monthly Benefit for that specific benefit.
+
+Important notes:
+- Focus on crucial details and requirements presented in natural sentence flow without any formatting.
+- Combine related points into single sentences where possible.
+- Include critical dates, numbers, and percentages naturally but avoid introductory phrases like "this section covers" or "there are several requirements".
+<EOS>
+This information from Hartford Cert 5419875.pdf outlines the maximum monthly disability benefit under a policy. The least of four potential amounts determines this benefit: $15,000 (Guaranteed Issue Amount), $20,000, the Benefit Percentage applicable to you multiplied by your pre-disability earnings on which premium has been paid or approved, and the Benefit Percentage applicable to you multiplied by your pre-disability earnings.
+
+If an insured individual remains disabled after the elimination period and is earning 20% or less of their indexed pre-disability earnings, their monthly benefit will be calculated as follows: multiply the pre-disability earnings by the Benefit Percentage, compare the result with the maximum benefit, and from the lesser amount, deduct other income benefits. If earning more than 20% of indexed pre-disability earnings, the monthly benefit for up to 12 consecutive months will be calculated similarly, but current monthly earnings will not reduce the monthly benefit unless the sum exceeds 100% of pre-disability earnings, in which case we will reduce the monthly benefit by the amount of excess.
+<EOS>
+This Hartford Cert 5419875.pdf document outlines an insurance policy where the maximum monthly benefit is the least of four options: $15,000; $20,000; the product of the Benefit Percentage (60%) and pre-disability earnings on which premium has been paid or pre-disability earnings; or the Guaranteed Issue Amount plus any additional approved coverage.
+
+If a policyholder remains disabled after an elimination period and earns 20% or less of their indexed pre-disability earnings, their monthly benefit is calculated by multiplying pre-disability earnings by the Benefit Percentage, comparing with the maximum benefit, and deducting other income benefits. If they earn more than 20%, a reduced benefit will be given for up to 12 consecutive months.
+
+The Repatriation Benefit pays the least of actual burial or cremation expenses, the product of the Principal Sum multiplied by the Repatriation Benefit Percentage, or the maximum amount for this benefit. Other benefits such as Seat Belt and Air Bag benefits have specific calculations and minimum payable amounts. If it cannot be determined whether a policyholder was wearing a seatbelt at the time of an accident, a minimum benefit will be paid under the Seat Belt Benefit.
+<EOS>
+This information from Hartford Cert 5419875.pdf outlines the Disability Benefits and Maximum Duration of Benefits as per the policy. You'll receive a monthly benefit if disabled throughout the Elimination Period, remaining disabled beyond it, submitting proof of loss, and meeting all other policy requirements. However, benefits will not surpass the Maximum Duration, which is limited for mental illness, conditions resulting from it, alcoholism under treatment, or non-medical use of certain substances.
+
+If you recover from a disability but experience a recurrence after 180 days, it will be treated as a new disability with a fresh Elimination Period and Maximum Duration limit. Payment termination occurs on the earliest date among: no longer being disabled; failing to provide proof of loss; ceasing regular physician care; refusing an examination request; death; last day of the Maximum Duration according to the table; your current monthly earnings exceeding 80% of Indexed Pre-disability Earnings (if disabled from occupation); or no further benefits payable under any duration-limiting provision.
+<EOS>
+According to the Hartford Cert 5419875.pdf document on pages [12, 44], continuity of coverage from a prior policy is considered if the insured was previously covered under said policy and not eligible for benefits on the day before the Participating Employer Effective Date. In such a case, the deferred effective date provision will not apply. This initial coverage under the new policy will not be deferred if, on the day before the Participating Employer Effective Date, the insured was actively working or on an authorized family and medical leave. However, the amount of insurance will be the lesser of the amounts held under the prior policy or as shown in the Schedule of Insurance, minus any active or payable coverage amounts from the prior policy. This reduced amount is subject to any reductions in the new policy and will not increase. Furthermore, if the insured becomes covered under the new policy on the Participating Employer Effective Date while also having a pre-existing condition, the pre-existing condition limitation will cease to apply.
+<EOS>
+This Hartford Cert 5419875.pdf policy outlines the termination of coverage, primarily ending when employment ceases, premium payments are not met, or the policy no longer insures the class. Other income benefits exclusions include early retirement benefits under the United States Social Security Act, group credit or mortgage disability insurance benefits, and certain types of retirement plans. The policy defines a Participating Employer as one who agrees to participate in the Trust, pays required contributions, and complies with the policy's provisions. Pre-disability Earnings include certain salary reductions but exclude dividends, capital gains, and returns of capital. Contributions can be assigned by the policyholder, except for dismemberment benefits under Accidental Death and Dismemberment Benefit. The Employer pays for long-term disability insurance premiums, with the option to allocate part or all of it to the employee, while basic and supplemental coverage for life and accidental death are offered under a single ERISA plan, with the employer paying some or all of the premium for the basic coverage, and employees contributing for supplemental coverage.
+<EOS>
+In the Hartford Cert 5419875.pdf document, several key details about life insurance are detailed across various pages. On page 13, it is stated that if an individual returns to an Eligible Class and premiums are paid, coverage remains active. If they do not return but remain disabled, coverage continues under the Waiver of Premium provision. Without an Eligible Class or disability, coverage terminates, and a Conversion Right may be exercised within certain time limits.
+
+On page 18, the waiting period for Waiver of Premium is increased to 180 days if greater than that value. Additionally, premiums will be waived retrospectively once the 180-day waiting period is complete.
+
+Page 41 introduces a Suicide provision, which states that We will not pay any Supplemental Amount of Life Insurance or Supplemental Amount of Dependent Life Insurance for individuals who die by suicide within one year of coverage.
+
+Moving on to page 46, the Waiver of Premium provision is made retroactive to the disability onset date once the 180-day waiting period has been completed.
+
+Page 47 discusses a Trust that arises when an individual or dependent commits suicide, whether sane or insane, within one year of coverage, and the Employer ceases to be a Participating Employer is 1 year instead of 1 year. Additionally, no insurance increase will occur during continuation in accordance with this provision.
+
+On page 48-49, the Continuation Provisions may not be applied consecutively. If an absence leads to a leave of absence in accordance with state and/or federal family and medical leave laws, then the combined continuation period will not exceed twelve consecutive months.
+
+Page 49, a new Suicide provision is presented that if Waiver of Premium is approved, it will retroactively apply Waiver of Premium once You have completed the 180-day waiting period for Conversion provision is changed to 15 days if greater than 15 days. If notice is given more than 15 days after the Policy ceases provision is replaced by: However, unless you did not have notice, We will not accept requests for Conversion if they are received more than 91 days after Life Insurance terminates.
+
+Lastly, on page 61, it is clarified to include that in case of any ambiguity or contradiction" are removed from the policy interpretation provision. If the wording of a policy clause is unclear or contradictory language: In case of an ambiguity or conflict between provisions will be resolved in favor of coverage continuation.
+
+This information provides critical details about life insurance found in Hartford Cert 5419875.pdf on pages 13,18, 182 provision at the same time. Additionally, any additional coverage resulting from a disability shall not exceed the original amount of coverage in effect on the date Your disability begins. Furthermore, You must provide proof of continued disability and income resumption of Active Work, Death, or 2471897; 63 disability claims; 3) date when premiums are waived under the Waiver of Premiums are no longer waived; or 4) The date of coverage.
+
+In case of any ambiguity or conflict between provisions, it will be resolved in favor of coverage continuation.
+<EOS>
+This information pertains to essential aspects of your disability and its cause, duration, and severity; b) medical treatment you've received; c) any diagnoses, prognosis, or expected recovery timeline; e) any ongoing treatments, medications, or therapies; f) any changes in income from other sources; g) proof of loss for other insurance claims or benefits; h) your employment history and job descriptions, including job descriptions, duties, and job requirements.
+
+   To qualify for disability benefits, you must be unable to perform essential duties of your occupation due to a sickness or injury that prevent you from working; b) medical professionals who've treated or consulted; c) hospitals or medical facilities where you were treated.
+
+   Your current monthly earnings are the sum of income you receive from your employer, any other employment, and all other work for pay or profit during your disability period. This includes bonuses and commissions, prorated as necessary. Your current monthly earnings will be compared to 80% of your pre-disability earnings.
+
+   If your current monthly earnings are less than 80% of your pre-disability earnings, you'll be eligible for disability benefits. However, if your current monthly earnings are more than 80% after deducting any family care credits, you won't qualify for benefits until your earnings drop below the threshold.
+
+   Family care credits can be claimed for up to 24 months during your disability period if they reduce your current monthly earnings below 80% of your pre-disability earnings. The charges must be documented by a receipt from the caregiver, and the credit will cease when your current monthly earnings are again above 80% or you're no longer in a rehabilitation program.
+
+   Proof of loss is required to substantiate your disability claim. This includes documentation of the date, cause, prognosis, expected recovery time, ongoing treatments, medications, and any changes in income from other sources. Additionally, proof of loss requires copies of filed and signed federal and state tax returns, all medical information, including histories, physicals, mental or diagnostic examinations and treatment notes, and the names and addresses of all treating physicians, hospitals, or medical facilities.
+<EOS>
+According to Hartford Cert 5419875.pdf, page 51, if it remains uncertain whether you were using a seatbelt during an accident, the policy provides a minimum benefit under the Seat Belt Benefit clause. This implies that even without explicit proof of seatbelt usage, you may still receive a portion of the benefit stipulated as the minimum requirement.
+<EOS>
+According to the Hartford Cert 5419875.pdf, a Common Carrier refers to a conveyance operated by an organization licensed for passenger transportation for hire. A Motor Vehicle is defined as a self-propelled vehicle with four or more wheels, which includes private passenger cars, station wagons, vans, sport utility vehicles, motor homes, campers, and pick-up trucks. However, it does not encompass farm equipment, snowmobiles, all-terrain vehicles, lawnmowers, or any other non-traditional vehicle types. These definitions are crucial for understanding the policy's coverage regarding vehicle usage.
