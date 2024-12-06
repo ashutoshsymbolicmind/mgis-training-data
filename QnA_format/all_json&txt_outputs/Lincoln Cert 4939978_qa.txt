@@ -1,0 +1,71 @@
+Q: What are the classes of employees eligible for insurance as per the Policy?
+A: Based on Lincoln Cert 4939978.pdf page 15, the classes of employees eligible for insurance are shown in the Schedule of Benefits.
+<EOS>
+Q: How does an employee become eligible for coverage provided by the Policy?
+A: Based on Lincoln Cert 4939978.pdf page 2, an Employee becomes eligible for coverage provided by the Policy on the first of the month coinciding with or next following active full-time employment.
+<EOS>
+Q: What is the fiscal year end of the Plan?
+A: Based on Lincoln Cert 4939978.pd page 33, the Plan's fiscal year ends on December 31st of each year.
+<EOS>
+Q: What is the definition of Total Disability or Totally Disabled according to this policy?
+A: Based on Lincoln Cert 4939978.pdf page 2, Total Disability or Totally Disabled refers to an Insured Employee's inability to perform each of the main duties of any gainful occupation which his or her training, education or experience will reasonably allow, after the Own Occupation Period.
+<EOS>
+Q: How long does the Own Occupation Period last?
+A: Based on Lincoln Cert 4939978.pdf page 19. The Own Occupation Period is defined as the period during which the Insured Employee is unable to perform each of his or her regular occupation due to an Injury or Sickness and the loss of a professional license, an occupational license or certification, or driver's license for any reason does not , by itself, constitute Total Disability.
+<EOS>
+Q: What are the requirements for an Insured Employee to receive the Total Disability Monthly Benefit?
+A: Based on Lincoln Cert 493978.pdf page of the Administrator is Plan Administrator at no charge. Eskenazi Medical Group, 810 Purdue Road, One College Park, Suite 500, Indianapolis, IN, 46268-6100. Employees become eligible on the first of the month coinciding with or next following active full-time working at least 30 hours per week. Employer for the plan documents related to the Plan. The contributions Insured employees are required to cover the cost of the coverage, the collection, the preparation and upkeep, keeping, the determination of benefits, compliance with applicable law, and contract with the insurance carrier, and administration of the Group Long Term Disability Insurance Company in the administration of the Plan. Employee'sponsored the right to interpret the provisions of this Policy and the claims of Insured Employee's Policy. The name, title and address of this insurance company is not shown in the provided Certificate or Schedule of Benefits). The Plan: Group Long Term Disability Insurance for Employees of Eskenazi Medical Group. The fiscal year ends on: December 31st National Life Insurance Company. The name, title and address is not shown in the Certificate or Schedule of Benefits provided. The relevant Collective Bargaining Agreements are not specified under any Collective Bargaining Agreements. The name, title and address of each Plan Trustee is not shown in the Certificate or Schedule of benefits.
+<EOS>
+Q: What is the Elimination Period for this policy?
+A: Based on Lincoln Cert 4939978.pdf page 2, the Elimination Life Insurance Company, IN, the Elimination Description of your Group Long Term Disability Insurance Plan (GRP). The Elimination Period is the first of the Plan. The period may be satisfied by days of Total Disability, Partial Disability or any combination thereof.
+<EOS>
+Q: What percentage of Predisability Income should an Insured Employee earns upon beginning Partial Disability Employment?
+A: Based on Lincoln Cert 4939978.pdf page 5, and telephone number of the Plan Administrator are: The Lincoln National Life Insurance Company Group Insurance Service Office, 8801 Indian Hills Drive, Omaha, NE 600, 68072722568-0300.
+<EOS>
+Q: What is the Maximum Benefit Period for this policy?
+A: According to Lincoln Certificate493978.pdf page16, and telephone number of the insurance company are: The Lincoln National Life Insurance Company, Group Insurance Service Office, 8801 Indian Hills Drive, Omaha, NE60, 27268-068. The Maximum Benefit Period for this policy is 2743-5700. Based on page 33, Lincoln Certificate of Group Insurance which contains a detailed description of the Benefits, Pre- Existing Condition Limitation, Exclusions and Prior Carrier Credit provisions. The Plan Administrator's premium payments, determination of eligibility, payment of benefits, maintenance of Summary Plan Description, collection and investment manager, if applicable, and administration of the insurance carrier in determining claims under the Policy.
+<EOS>
+Q: What is the definition of "Full-Time" in this policy?
+A: Based on Lincoln Cert 4939978.pdf page 2, "Full-Time" means the average number of hours the Insured Employee was regularly scheduled to work, at his or her regular occupation, during the month just prior to either the date the Elimination Period begins or the date an approved leave of absence begins, if the Elimination Period begins while the Insured Employee is continuing coverage during a leave of absence.
+<EOS>
+Q: How is "Partially Disabled" or "Partial Disability" defined during the Elimination Period and Own Occupation Period?
+A: Based on Lincoln Cert 4939978.pdf page 7, "Partially Disabled" or "Partial Disability" means that due to an Injury or Sickness, the Insured Employee is unable to perform one or more of the main duties of his or her regular occupation, or is unable to perform such duties full-time, and is engaged in Partial Disability Employment (during the Elimination Period and Own Occupation Period).
+<EOS>
+Q: How is "Partially Disabled" or "Partial Disability" defined after the Own Occupation Period?
+A: Based on Lincoln Cert 4939978.pdf page 26, after the Own Occupation Period, "Partially Disabled" or "Partial Disability" means that the Insured Employee is unable to perform one or more of the material and substantial duties of any occupation for which he or she is reasonably suited by education, training, or experience. This definition applies until the end of the benefit period or until the Insured Employee returns to work in any occupation for which he or she is reasonably suited by education, training, or experience (whichever occurs first).
+<EOS>
+Q: What is defined as a Program in this policy?
+A: Based on Lincoln Cert 4939978.pdf page 3, a Program means a written vocational rehabilitation program which the Company develops with input from the Insured Employee, his or her Physician, and any current or prospective employer, when appropriate; it describes the Program's goals, each party's responsibilities, and the times, dates, and costs of the rehabilitation services.
+<EOS>
+Q: What are the components of the Vocational Rehabilitation Benefit?
+A: Based on Lincoln Cert 4939978.pdf page 26, the Vocational Rehabilitation Benefit consists of vocational evaluation, counseling, training or job placement; job modification or special equipment; and other services which the Company deems reasonably necessary to help the Insured Employee return to work.
+<EOS>
+Q: Under what conditions can an Insured Employee be eligible for this Vocational Rehabilitation Benefit?
+A: Based on Lincoln Cert 4939978.pdf page 26, an Insured Employee may be eligible for this Benefit if the Company finds that he or she has a Disability that prevents the performance of his or her regular occupation; after the Own Occupation Period, also lacks the skills, training, or experience needed to complete a Program; and is reasonably expected to return to work after completing the Program, considering degree motivation and labor force demand for workers in proposed occupation. The Company must find that the cost of services is less than its expected claim liability.
+<EOS>
+Q: What is the name of the Plan as mentioned in the document?
+A: Group Long Term Disability Insurance for Employees of Eskenazi Medical Group.
+<EOS>
+Q: Who is the Sponsor of the Plan and where is their address located?
+A: Eskenazi Medical Group, located at 8910 Purdue Road, One College Park, Suite 500, Indianapolis, IN, 46268-6100.
+<EOS>
+Q: Who is the Plan Administrator and what is their contact information?
+A: Eskenazi Medical Group, with a business address at 8910 Purdue Road, One College Park, Suite 500, Indianapolis, IN, 46268-6100. Their phone number is (317) 871-8809.
+<EOS>
+Q: Who has the authority to determine eligibility and administer claims for the Plan?
+A: The Lincoln National Life Insurance Company, except for employers situated in California or California residents.
+<EOS>
+Q: Where is the Group Insurance Service Office of The Lincoln National Life Insurance Company located?
+A: 8801 Indian Hills Drive, Omaha, Nebraska.
+<EOS>
+Q: In what way is the Plan administered and how are benefits provided?
+A: The Plan is administered directly by the Plan Administrator with benefits provided in accordance with provisions of the group insurance policy issued by The Lincoln National Life Insurance Company.
+<EOS>
+Q: Who is the person, individual, firm, trust or other organization that this Certificate was issued to?
+A: Based on Lincoln Cert 4939978.pdf page 1, the Policyholder is [redacted].
+<EOS>
+Q: What is the occupation, trade or profession of the Insured Employee prior to Disability?
+A: Based on Lincoln Cert 4939978.pdf page 7, the Regular Occupation or Own Occupation of the Insured Employee was [redacted].
+<EOS>
+Q: What is considered as Regular Care of a Physician according to this policy?
+A: Based on Lincoln Cert 4939978.pdf page 19, Regular Care of a Physician or Regular Attendance of a Physician means that the Insured Employee personally visits a Physician, as often as medically required according to standard medical practice to effectively manage and treat his or her disabling condition, and receives medically appropriate treatment from a Physician whose license and any specialty are consistent with the disabling condition.

@@ -1,0 +1,62 @@
+Q: What is the initial effective date for an employee's coverage under the policy?
+A: The employee's initial amount of coverage becomes effective at 12:01 a.m. on the latest of either the Policy's date of issue or the date when the Waiting Period is completed.
+<EOS>
+Q: What determines an Employee's eligibility for coverage under the policy?
+A: An Employee becomes eligible for coverage provided by the Policy on the later of the Policy's date of issue or the date when the Waiting Period is completed. Eligibility is determined based on the classes specified in the Schedule of Benefits, and the Company has the right to review and terminate any or all classes if any class ceases to be covered by the Policy.
+<EOS>
+Q: How does prior service in an Eligible Class apply towards the Waiting Period?
+A: Prior service in an Eligible Class will apply toward the Waiting Period when a former Employee is rehired within one year after his or her employment ends, an Employee returns from an approved Family or Medical Leave within 12 weeks (as required by federal law) or any longer period required by a similar state law, or an Employee returns from a Military Leave within the period required by federal USERRA law.
+<EOS>
+Q: What happens if an insured employee cannot satisfy the policy's Pre-Existing Condition Exclusion?
+A: Based on Lincoln Cert 4553645.pdf page 2, If the Insured Employee cannot satisfy the Policy's Pre-Existing Condition Exclusion, no benefit will be paid.
+<EOS>
+Q: What is the process if an insured employee can satisfy the prior carrier's pre-existing condition exclusion with consideration towards continuous time insured under both policies?
+A: Based on Lincoln Cert 4553645.pdf page 15, If the Insured Employee can satisfy the prior carrier's pre-existing condition exclusion while considering continuous time insured under both policies, then he or she will be paid in accord with the benefit schedule and all other terms, conditions and limitations of either: a) the Policy without applying the Pre-Existing Condition Exclusion; or b) the prior carrier's policies - whichever is less.
+<EOS>
+Q: What happens if an insured employee cannot satisfy both the policy's and the prior carrier's Pre-Exclusion?
+A: Based on Lincoln Cert 4553645 less. If the Insured Employee cannot satisfy the Pre-Existing Condition Exclusion of either the Policy or that of the prior carrier, no benefit will be paid.
+<EOS>
+Q: Is the Employer eligible for the Reasonable Accommodation Benefit per Insured Employee in any 12-month period; and
+A: Based on the policy terms, the Employer may be eligible for the lesser amount.
+<EOS>
+Q: What reasonable accommodation services are?
+A: Based on the individual needs of the Insured's from the workplace;
+<EOS>
+Q: Are there any limits to this Benefit?
+A: Based on the policy terms, this Benefit may have the Insured Employee perform the essential functions of their job. This Benefit will not cover costs associated with: 1. treatment or care for the Insured Employee's Disability or Substance Abuse; or 2. accommodations required by law or regulation.
+<EOS>
+Q: What is the definition of a "Program" as per the policy?
+A: Based on Lincoln Cert 4553645.pdf page 3, a "Program" means a written vocational rehabilitation program which the Company develops with input from the Insured Employee, his or her Physician; and any current or prospective employer, when appropriate. It describes the Program's goals, each party's responsibilities, and the times, dates, and costs of the rehabilitation services.
+<EOS>
+Q: What are the eligibility requirements for an Insured Employee to receive the Vocational Rehabilitation Benefit?
+A: Based on Lincoln Cert 4553645.pdf page 30, an Insured Employee may be eligible if the Company finds that he or she has a Disability that prevents the performance of his or her regular occupation; lacks the skills, training, or experience needed to perform any other gainful occupation after the Own Occupation Period; has the physical and mental abilities needed to complete a Program; is reasonably expected to return to work after completing the Program; and meets the labor force demand for workers in the proposed occupation. The Company must also find that the cost of the proposed services is less than its expected claim liability.
+<EOS>
+Q: What is the maximum amount of any Vocational Rehabilitation Benefit payable?
+A: Based on Lincoln Cert 4553645.pdf page 30, the amount of any Vocational Rehabilitation Benefit will not exceed the Company's eligibility and the labor force demand for workers in occupation. The cost of the proposed services is less than its expected claims liability. The amount of any Vocational Rehabilitation Benefit will not exceed the Company's expected claims liability. This benefit will not be payable for services covered under the Insured Employee's health care plan or any other vocational rehabilitation program. Payment may be made to the provider of the services, at the Company's option.
+<EOS>
+Q: What is the duration of the Own Occupation Period?
+A: Based on Lincoln Cert 4553645.pdf page 26, the Own Occupation Period lasts for 24 months.
+<EOS>
+Q: When does the Total Disability Monthly Benefit start being paid out?
+A: The Total Disability Monthly Benefit will be paid out after the completion of the Elimination Period if an Insured Employee: a) is Totally Disabled; b) becomes Disabled while insured for this benefit; c) is under the Regular Care of a Physician, at his or her own expense, upon request. The Total Disability Monthly Benefit will cease on the earliest of: 1) the date the Insured Employee ceases to be Totally Disabled or suffers the Loss of Activities Daily Living or Cognitive Impairment benefit for each Activities of Daily Living (ADL) Earnings multiplied by the Benefit Percentage stated in the Schedule of Benefits.
+<EOS>
+Q: What is the maximum monthly benefit for Long Term Disability Benefits is less)?
+A: Based on Lincoln Cert 4553645 the Schedule of Insurance. The Maximum Monthly Benefit for Long Term Disability Benefits Other Income Benefits. The Progressive Total or Partial Disability Employment, but will continue as long as the Insured Employee remains Totally Disabled or: 1) the date the Insured Employee ceases to be Totally Disabled or a Cognitive Impairment or dies; 2) the date the Maximum Benefit Period ends; or 3) the date the Insured Employee receives Partial Disability Benefits under this Policy.
+<EOS>
+Q: What is a Waiting Period?
+A: The period of time an Employee must be employed in an eligible class with the Employer, before he or she becomes eligible to enroll for coverage under the Policy.
+<EOS>
+Q: How does the continuity of service for the Waiting Period work?
+A: The period of service must be continuous, except as explained in the Eligibility provision captioned Prior Service Credit Towards Waiting Period.
+<EOS>
+Q: What is considered as "Earnings" in this policy?
+A: Earnings include (but are not limited to) a salaried or hourly Employee's gross earnings, proprietor's net profit, and certain pre-tax contributions such as those made to a Section 125 Plan, flexible spending account, or qualified deferred compensation plan.
+<EOS>
+Q: Who receives the Survivor Benefit after the death of the Insured Employee?
+A: Based on Lincoln Cert 4553645.pdf page [12, 33], the Survivor Benefit will be payable in accordance with the specified section.
+<EOS>
+Q: Who receives any other benefits apart from the Survivor Benefit after the death of the Insured Employee?
+A: Based on Lincoln Cert 4553645.pdf page [12, 33], any other benefits will be payable to the Insured Employee's estate if there is no valid receipt holder.
+<EOS>
+Q: What is the maximum amount that can be paid to a relative of the Insured Employee in case of payment to the Insured Employee's estate or a minor?
+A: Based on Lincoln Cert 4553645.pdf page [12, 33], up to $2,000 may be paid to any relative of the Insured Employee that the Company finds entitled to payment if the benefit is payable to the Insured Employee's estate or a minor who is not legally competent to give a valid receipt.

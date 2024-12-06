@@ -1,0 +1,131 @@
+Q: What is the definition of a pre-existing condition according to Unum's policy?
+A: If the disability starts in the 12 months after your effective date of coverage, it is defined as follows: you have a pre-existing condition if:
+<EOS>
+Q: What are the requirements for eligibility in Unum's Rehabilitation and Return to Work program?
+A: In order to be eligible for Unum's rehabilitation program, you must meet the following criteria:
+<EOS>
+Q: How does the Rehabilitation and Return to Work Assistance Program determine your eligibility for participation?
+A: The final determination of your eligibility for Unum's rehabilitation program is made by one of their rehabilitation professionals, based on a review of medical and vocational information provided in your claim file.
+<EOS>
+Q: What is the minimum hours requirement for full-time employees to be eligible for Short Term Disability Plan under Unum Cert 4767299.pdf?
+A: Based on Unum  Cert 4767299.pdf page [5, 7], Employees must be working at least 30 hours per week to be eligible for the Short Term Disability Plan.
+<EOS>
+Q: How long is the waiting period for employees entering an eligible group after July 1, 2009 for Short Term Disability Plan under Unum Cert 4767299.pdf?
+A: Based on Unum  Cert 4767299.pdf page [5, 7], the waiting period for employees entering an eligible group after July 1, 2009 is 90 days of continuous active employment for Short Term Disability Plan.
+<EOS>
+Q: For whom does the employer pay the cost of coverage for Long Term Disability Plan under Unum Cert 4767299.pdf?
+A: Based on Unum  Cert 4767299.pdf page [5, 7], Your Employer pays the cost of your coverage for Long Term Disability Plan if you are a Physician, FT Administrator, or President in an eligible group. For all other full-time employees, they pay the cost of their coverage.
+<EOS>
+Q: Who pays for the coverage under this long term disability plan for Physicians, FT Administrator and President?
+A: Based on Unum Cert 4767299.pdf page 7, Your Employer pays the cost of your coverage.
+<EOS>
+Q: What is the waiting period for employees entering an eligible group after July 1, 2009 for Physicians, FT Administrator and President?
+A: Based on Unum Cert 4767299.pdf page 7, the waiting period is 90 days of continuous active employment.
+<EOS>
+Q: For a Physician Partner/Owner, when do benefits begin under this long term disability plan?
+A: Based on Unum Cert 4767299.pdf page 5, for employees in an eligible group on or before July 1, 2009, there is no waiting period and benefits begin immediately. For employees entering an eligible group after July 1, 2009, the benefits begin the day after the elimination period is completed, which is the later of: -  90 days; or - the date your insured Short Term Disability payments end, if applicable.
+<EOS>
+Q: What is the elimination period in Unum policy?
+A: Based on Unum 10 the monthly benefit payable amount shown in your Certificate.
+<EOS>
+Q: What is the maximum monthly benefit in this Unum policy?
+A: The maximum monthly benefit of $5, which is the lesser of $20, or the sum of all benefits payable to you under this certificate.
+<EOS>
+Q: What is the maximum weekly benefit provided under this plan?
+A: Based on Unum  Cert 4766299.pdf page 6, the maximum weekly benefit is $500.
+<EOS>
+Q: What is the minimum weekly payment if subtracting deductible sources of income results in a zero benefit?
+A: Based on Unum  Cert 4766299.pdf page 21, the minimum weekly payment is $25.
+<EOS>
+Q: Is there any cap on the total benefit payable to an individual on a monthly basis under this plan, and if so, what is it?
+A: Based on Unum  Cert 4766299.pdf page 21, the total benefit payable to an individual on a monthly basis will not exceed 100% of their monthly earnings, but if they are participating in Unum's Rehabilitation and Return to Work Assistance program, it will not exceed 110%.
+<EOS>
+Q: What is the maximum period of payment for any one period of disability according to Unum Cert 4767299?
+A: Based on Unum  Cert 4767299. The Maximum Period Of Payment varies depending on the type of disability (Short-Term or Long-Term Disability). For Short-Term, it is 50 weeks and up to 2 years. For Long-Term Disability, it can be between 1-36 months for a claimant under this plan.
+<EOS>
+Q: What is the definition of Mental Illness or Sickness or Injury during the given period time as stated in the plan?
+A: Based on Unum Cert 476799, it is a condition that has occurred more than once within a policy-defined period; or - a worsening of a disability that was previously defined) and has been. The same Period Of Payment for.
+<EOS>
+Q: Is a Mental Illness claimant regular medical treatment, consultation, care services as required for your condition; or - take the drugs prescribed by the disorder?
+A: Based on Unum Cert 4767999, according to the Diagnostic Manual Mental Health Disorders (DSM). Such treatments include psychologist, psychotherapist is consistent with the diagnosis and treatment plan. The treatments should be administered in a timely manner, as defined maximum period of payment for a Recurrent care or additional medical services, you are still receiving regular care if you continue to follow your doctor's instructions, it shall be considered as providing regular care.
+<EOS>
+Q: What is the Dependent Care Expense Benefit amount per dependent while participating in Unum's Rehabilitation and Return to Work Assistance program?
+A: Based on Unum Cert 4767299.pdf page 8, the Dependent Care Expense Benefit amount per dependent is $350.
+<EOS>
+Q: What is the maximum monthly amount for all dependent care expenses combined while participating in Unum's Rehabilitation and Return to Work Assistance program?
+A: Based on Unum Cert 4767299.pdf page 8, the maximum monthly amount for all dependent care expenses combined is $1,000.
+<EOS>
+Q: Under what conditions can a participant receive the Dependent Care Expense Benefit while participating in Unum's Rehabilitation and Return to Work Assistance program?
+A: Based on Unum Cert 4767299.pdf page 38, the participant must be incurring expenses to provide care for a child under the age of 15 or a family member who needs personal care assistance starting from the Dependent Care Expense Benefit, you are incuring expenses that entitle you to the Dependent Care Expense Benefit. The benefit willend on the earlier of the following:
+<EOS>
+Q: What is the total benefit cap as a percentage of monthly earnings under this Unum plan?
+A: Based on Unum Cert 4767299.pdf page [9], the total benefit payable to you on a monthly basis (including all benefits provided under this plan) will not exceed 100% of your monthly earnings. However, if you are participating in Unum's Rehabilitation and Return to Work Assistance program, the total benefit payable to you on a monthly basis will not exceed 110% of your monthly earnings.
+<EOS>
+Q: What is the requirement for receiving the survivor benefit under this plan?
+A: Based on Unum Cert 4767299.pdf page [35], to be eligible for the survivor benefit, your disability must have continued for 180 or more consecutive days and you must be receiving or entitled to receive payments under the plan at the time of your death. If there are no eligible survivors, payment will be made to your estate, unless there is none.
+<EOS>
+Q: What option does a terminally ill policyholder have regarding the survivor benefit under this plan?
+A: Based on Unum Cert 4767299.pdf page [35], if you have been diagnosed with a terminal illness or condition and your life expectancy has been reduced to less than 12 months, you may receive a lump sum amount equal to 3 months of your gross disability payment instead of the 3 month survivor benefit upon your death. This benefit is available to you on a voluntary basis and will only be payable once. If you elect to receive this benefit prior to your death, no 3 month survivor benefit will be payable upon your death.
+<EOS>
+Q: What is the maximum percentage of a policyholder's monthly earnings that can be paid as total benefit under this plan when they are not participating in Unum's Rehabilitation and Return to Work Assistance program?
+A: Based on Unum  Cert 4767299.pdf page [9], the total benefit payable to a policyholder on a monthly basis will not exceed 100% of their monthly earnings.
+<EOS>
+Q: What is the maximum percentage of a policyholder's monthly earnings that can be paid as total benefit under this plan when they are participating in Unum's Rehabilitation and Return to Work Assistance program?
+A: Based on Unum  Cert 4767299.pdf page [9], the total benefit payable to a policyholder on a monthly basis (including all benefits provided under this plan) will not exceed 110% of their monthly earnings when they are participating in Unum's Rehabilitation and Return to Work Assistance program.
+<EOS>
+Q: What lump sum benefit will be paid to an eligible survivor if the policyholder dies or is terminally ill, and for how long has the disability needed to continue for this benefit to be payable?
+A: Based on Unum  Cert 4767299.pdf page [35], a lump sum benefit equal to 3 months of the policyholder's gross disability payment will be paid to an eligible survivor if the policyholder dies or is terminally ill. The disability needs to have continued for 180 or more consecutive days for this benefit to be payable (page 35). If the policyholder is terminally ill, they must also be receiving monthly payments under the LTD plan (page 40).
+<EOS>
+Q: What is the total benefit cap as a percentage of monthly earnings for participants in the Work Life Assistance Program under Unum's plan?
+A: Based on Unum  Cert 4767299.pdf page [9, 41], the total benefit payable to you on a monthly basis will not exceed 100% of your monthly earnings if you are not participating in the Rehabilitation and Return to Work Assistance program.
+<EOS>
+Q: What is the total benefit cap as a percentage of monthly earnings for participants in the Rehabilitation and Return to Work Assistance program under Unum's plan?
+A: Based on Unum  Cert 4767299.pdf page [9, 41], if you are participating in Unum's Rehabilitation and Return to Work Assistance program, the total benefit payable to you on a monthly basis will not exceed 110% of your monthly earnings.
+<EOS>
+Q: What services are available through the Work Life Assistance Program provided by Unum?
+A: Based on Unum  Cert 4767299.pdf page [41], the Work Life Assistance Program provides assistance for virtually any personal or professional issue, from helping find a day care or transportation for an elderly parent, to researching possible colleges for a child, to helping to deal with the stress of the workplace. This service is available 24 hours a day, 7 days a week through a toll-free number or online. Information about this program can be obtained through your plan administrator.
+<EOS>
+Q: What is considered Regular Care according to Unum Cert 4767299.pdf?
+A: Based on Unum  Cert 4767299.pdf page 20, Regular Care means you personally visit a physician as frequently as is medically required, according to generally accepted medical standards, to effectively manage and treat your disabling condition(s). You are also receiving the most appropriate treatment and care which conforms with generally accepted medical standards, for your disabling condition(s) by a physician whose specialty or experience is the most appropriate for your disabling condition(s), according to generally accepted medical standards.
+<EOS>
+Q: What is considered a Recurrent Disability in this context?
+A: Based on Unum  Cert 4767299.pdf page 15, a Recurrent Disability is defined as a disability which is caused by a worsening in your condition and is due to the same cause(s) as your prior disability for which Unum made a Long Term payment.
+<EOS>
+Q: What does the term Regular Occupation mean in this context?
+A: Based on Unum  Cert 4767299.pdf page 18, Regular Occupation refers to the occupation you are routinely performing when your disability begins. It is looked at as it is normally performed in the national economy, instead of how the work tasks are performed for a specific employer or at a specific location.
+<EOS>
+Q: What conditions must be met for Unum to continue paying benefits beyond the 24 month period for mental illness limitation?
+A: Based on Unum Cert 4767299.pdf page [33], if a claimant is confined to a hospital or institution at the end of the 24 month period, Unum will continue to send payments during the confinement. If still disabled upon discharge, Unum will send payments for a recovery period of up to 90 days. If reconfined during the recovery period and remains confined for at least 14 days in a row, Unum will send payments for that additional confinement and for one more recovery period up to 90 more days.
+<EOS>
+Q: What happens if a claimant continues to be disabled after the 24 month period and subsequently becomes confined to a hospital or institution for at least 14 days in a row?
+A: Based on Unum Cert 4767299.pdf page [33], if a claimant meets this condition, Unum will send payments during the length of the reconfinement.
+<EOS>
+Q: Which conditions are not subject to the mental illness limitation at Unum?
+A: Based on Unum Cert 4767299.pdf page [33], dementia caused by stroke, trauma, viral infection, Alzheimer's disease, or other conditions not listed which are not usually treated by a mental health provider or other qualified provider using psychotherapy, psychotropic drugs, or other similar methods of treatment will not be subject to the mental illness limitation.
+<EOS>
+Q: What conditions must be met for a survivor to receive the 3-month lump sum benefit from Unum?
+A: Based on Unum Cert 4767299.pdf page [35, 36], a survivor can receive the 3-month lump sum benefit if, at the date of death, the disability had continued for 180 or more consecutive days and the deceased was receiving or entitled to receive payments under the plan.
+<EOS>
+Q: Can a terminally ill policyholder receive their 3-month survivor benefit prior to their death? If yes, what are the conditions?
+A: Based on Unum Cert 4767299.pdf page [35, 36], a terminally ill policyholder can receive their 3-month survivor benefit prior to their death if they have been diagnosed with a terminal illness or condition, their life expectancy has been reduced to less than 12 months, and they make the election in writing to Unum and their physician certifies in writing that they have a terminal illness or condition and their life expectancy has been reduced to less than 12 months.
+<EOS>
+Q: In what situations will Unum provide coverage for an individual who is not in active employment when their employer changes insurance carriers to Unum?
+A: Based on Unum Cert 4767299.pdf page [35, 36], Unum will provide coverage for an individual if they are not in active employment because of a sickness or injury and were covered by the prior policy when the plan becomes effective. Their coverage is subject to payment of premium, limited to the amount that would have been paid by the prior carrier, and Unum will reduce their payment by any amount for which their prior carrier is liable.
+<EOS>
+Q: What is the waiver of premium for Disability Plus as per Unum Cert 4767299.pdf page [40]?
+A: Premium for the Disability Plus coverage is not required while you are receiving monthly payments under the LTD plan.
+<EOS>
+Q: When does the waiver of premium for Disability Plus begin in relation to the LTD plan payments?
+A: The waiver of premium for Disability Plus begins when monthly payments under the LTD plan commence, as per Unum Cert 4767299.pdf page [40].
+<EOS>
+Q: Are survivor benefits payable for the Disability Plus coverage according to Unum Cert 4767299.pdf page [40]?
+A: No, survivor benefits are not payable for the Disability Plus coverage, as per Unum Cert 4767299.pdf page [40].
+<EOS>
+Q: What is the purpose of a worksite modification, according to Unum Cert 4767299.pdf page [41]?
+A: A worksite modification might be what is needed to allow you to perform the material and substantial duties of your regular occupation with your Employer.
+<EOS>
+Q: Who assists in identifying a modification agreed upon by Unum for worksite modification, as stated on page [41]?
+A: One of our designated professionals will assist you and your Employer to identify a modification we agree is likely to help you remain at work or return to work.
+<EOS>
+Q: What is the maximum amount Unum will reimburse an employer for a worksite modification, based on page [41]?
+A: Unum will reimburse your Employer for the cost of the modification, up to the greater of: - $1,000; or - the equivalent of 2 months of your monthly benefit. This benefit is available to you on a one time only basis.

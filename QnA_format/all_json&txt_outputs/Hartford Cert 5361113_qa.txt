@@ -1,0 +1,80 @@
+Q: What qualifies as an Infectious and Contagious Disease?
+A: An Infectious and Contagious Disease is any medical condition that affects a person's Daily Living (ADL) or requires the use of a device. Examples include but are not limited to: HIV/AIDS, Hepatitis B, Hepatitis C, and 90 days within a calendar year.
+<EOS>
+Q: What is considered as Cognitively employed?
+A: For Disability or being unable to perform the Material and Substantial duties of Your Occupation for at least 20% of Your Pre-disability Earnings immediately prior to disclosure;  or 90 days following the Elimination Period.
+<EOS>
+Q: What qualifies as a Disability?
+A: Disability qualifies as Pre-disability Earnings for at least 24 consecutive months, Your Current Monthly Earnings are less than 60% of Indexed Pre-disability Earnings or all the Essential Duties of Any Occupation, You are considered Disabled.
+<EOS>
+Q: What is the maximum monthly benefit percentage a policyholder can receive?
+A: Based on Hartford Cert 5361113.pdf page [9, 13, 57, 58], the maximum monthly benefit percentage for a policyholder is 40%.
+<EOS>
+Q: How is the disability benefit calculated when a policyholder earns more than 20% of their indexed pre-disability earnings?
+A: Based on Hartford Cert 5361113.pdf page [9, 13, 57, 58], if a policyholder remains disabled after the Elimination Period and earns more than 20% of their Indexed Pre-disability Earnings, their monthly benefit will be determined for a period of up to 12 consecutive months by multiplying their Pre-disability Earnings by the Benefit Percentage, comparing the result with the Maximum Benefit, and taking the lesser amount, after which Other Income Benefits are deducted.
+<EOS>
+Q: What is the Day Care Benefit Percentage for this policy?
+A: Based on Hartford Cert 5361113.pdf page [9, 13, 57, 58], the Day Care Benefit Percentage for this policy is not explicitly mentioned. However, if you die, the annual Day Care Benefit will be the lesser of: 1) the amount resulting from multiplying Your Principal sum by the Day Care Benefit Percentage; or 2) the Maximum Amount for this Benefit.
+<EOS>
+Q: What is the Maximum Duration for Disability Benefits under this policy?
+A: Based on Hartford Cert 5361113.pdf page 9, the Maximum Duration of Benefits for a Disability is not explicitly specified but is subject to certain conditions such as recovery from disability or exceeding predefined earnings percentages.
+<EOS>
+Q: What are the requirements for receiving a Progressive Illness Benefit under this policy?
+A: Based on Hartford Cert 5361113.pdf page 14, to receive a Progressive Illness Benefit, you must be diagnosed with a Progressive Illness after becoming covered under this policy and provide satisfactory proof from your Physician of the Progressive Illness.
+<EOS>
+Q: What percentage of Indexed Pre-disability Earnings should my Current Monthly Earnings not exceed for me to continue receiving Disability benefits if I am disabled from Any Occupation?
+A: Based on Hartford Cert 5361113.pdf page 13, if you are receiving benefits for being Disabled from Any Occupation, your Current Monthly Earnings should not exceed 60% of your Indexed Pre-disability Earnings.
+<EOS>
+Q: What happens to the coverage if a person who has been approved for Waiver of Premium provision exercises the Conversion Right?
+A: The conversion right is not available for any Amount of Life Insurance which was, or is being, continued in accordance with the Waiver of Premium Provision. However, if the coverage ends, you may still be approved for Waiver of Premium if you qualify again.
+<EOS>
+Q: What happens to the Dependent coverage under Waiver of Premium provision when the policy terminates or the employer ceases to be a Participating Employer?
+A: The Dependent coverage will terminate, and your coverage under the terms of this provision will not be affected.
+<EOS>
+Q: How is the definition of Disabled for Waiver of Premium affected if a person diagnosed as Terminally Ill recovers and is no longer terminally ill?
+A: If a person who was diagnosed as Terminally Ill recovers, coverage will end unless they continue to meet the definition of Disabled. In that case, coverage may remain in force under the Waiver of Premium provision, subject to conditions. Conversion is not available for any Amount of Life Insurance which was, or is being, continued under this provision until such coverage ends.
+<EOS>
+Q: How are my Disability benefits calculated if I remain disabled after the Elimination Period and earn 20% or less of my Indexed Pre-disability Earnings?
+A: Based on Hartford Cert 5361113.pdf page 13, your Monthly Benefit will be determined as follows: 1) multiply Your Pre-disability Earnings by the Benefit Percentage; 2) compare the result with the Maximum Benefit; and 3) from the lesser amount, deduct Other Income Benefits. The result is Your Monthly Benefit.
+<EOS>
+Q: What are the steps for calculating my Disability benefits if I remain disabled after the Elimination Period and earn more than 20% of my Indexed Pre-disability Earnings?
+A: Based on Hartford Cert 5361113.pdf page 16, your Monthly Benefit for a period of up to 12 consecutive months will be calculated as follows: 1) multiply Your Pre-disability Earnings by the Benefit Percentage; 2) compare the result with the Maximum Benefit; A= Your Pre-disability Earnings minus Your Current Monthly Earnings B= Your Pre-disability Earnings C= Your Maximum Benefit payable under the terms of this Policy. How long may an Infectious and Contagious Disease Benefit be paid?
+<EOS>
+Q: For how long can an Infectious and Contagious Disease Benefit be paid according to Hartford Cert 5361113.pdf?
+A: Based on Hartford Cert 5361113.pdf, there are no specific guidelines regarding the duration for which an Infectious and Contagious Disease Benefit can be paid. It is advisable to review the policy details for any such provisions or contact your insurance representative for clarification.
+<EOS>
+Q: What is the minimum benefit amount for the Combined Basic & Supplemental Accidental Death and Dismemberment (AD&D) principal sum under this policy?
+A: Based on Hartford Cert 5361113.pdf pages [43, 55], the minimum benefit amount for the Combined Basic & Supplemental AD&D principal sum is $1,250.
+<EOS>
+Q: What is the maximum percentage of the Combined Basic & Supplemental AD&D principal sum under this policy?
+A: Based on Hartford Cert 5361113.pdf pages [43, 55], the maximum percentage of the Combined Basic & Supplemental AD&D principal sum is 5%.
+<EOS>
+Q: Under what condition will a Minimum Benefit be payable under the Seat Belt Benefit in this policy?
+A: Based on Hartford Cert 5361113.pdf pages [43, 55], if it cannot be determined that the injured person was wearing a Seat Belt at the time of Accident, a Minimum Benefit will be payable under the Seat Belt Benefit.
+<EOS>
+Q: What percentage of the Combined Basic & Supplemental AD&D Principal Sum is used to calculate the Rehabilitation Benefit?
+A: Based on Hartford Cert 5361113.pdf pages [43, 57, 58], the Rehabilitation Benefit Percentage is 5%.
+<EOS>
+Q: How much is the maximum amount for the Rehabilitation Benefit?
+A: Based on Hartford Cert 5361113.pdf pages [43, 57, 58], the Maximum Amount for the Rehabilitation Benefit is $5,000.
+<EOS>
+Q: When is the Rehabilitation Benefit payable according to this policy?
+A: Based on Hartford Cert 5361113.pdf pages [43, 57, 58], the Rehabilitation Benefit is payable if You or Your Dependents sustain an Injury which results in a Loss other than Loss of life, payable under the Accidental Death and Dismemberment Benefit, for Rehabilitative Program Expenses Incurred within one (1) year of the date of accident.
+<EOS>
+Q: Is there continuity of coverage from a prior policy for the insured individual?
+A: Yes, based on Hartford Cert 5361113.pdf pages [45, 46], if the insured was covered under the Prior Policy and meets the Eligibility requirements of The Policy, initial coverage under The Policy will not be deferred even if they were not actively at work on the Participating Employer Effective Date. However, their Amount of Insurance will be the lesser of the amount they had under the Prior Policy or shown in the Schedule of Insurance.
+<EOS>
+Q: Is there continuity of coverage from a prior policy for dependents of the insured individual?
+A: Yes, based on Hartford Cert 5361113.pdf pages [45, 46], if the insured was covered with respect to their dependents under the Prior Policy, the Deferred Effective Date provision will not apply to initial coverage under The Policy for such Dependents. However, the Dependent Amount of Insurance will be the lesser of the Amount of Life Insurance and Accidental Death and Dismemberment Principal Sum they had under the Prior Policy or shown in the Schedule of Insurance, reduced by any coverage amount that is in force, paid or payable under the Prior Policy or would have been so payable had a timely election been made.
+<EOS>
+Q: How does the lesser amount of insurance from the prior policy and the schedule of insurance get determined for both the insured individual and their dependents?
+A: Based on Hartford Cert 5361113.pdf pages [45, 46], if there is continuity of coverage from a Prior Policy, the lesser amount of life insurance and Accidental Death and Dismemberment Principal Sum for both the insured individual and their dependents will be determined as follows:
+<EOS>
+Q: What is defined as a Common Carrier based on Hartford Cert 5361113.pdf page [63]?
+A: A Common Carrier is a conveyance operated by a concern, other than the Policyholder, organized and licensed for the transportation of passengers for hire and operated by that concern.
+<EOS>
+Q: What does the document define as a Motor Vehicle on Hartford Cert 5361113.pdf page [63]?
+A: A Motor Vehicle is defined as a self-propelled, four (4) or more wheeled vehicle: 1) private passenger car, station wagon, van or sport utility vehicle; 2) motor home or camper; or 3) pick-up truck, not being used as a Common Carrier. It does not include farm equipment, snowmobiles, all-terrain vehicles, lawnmowers or any other type of equipment vehicles.
+<EOS>
+Q: What types of vehicles are excluded from the definition of a Motor Vehicle according to Hartford Cert 5361113.pdf page [63]?
+A: Farm equipment, snowmobiles, all-terrain vehicles, lawnmowers or any other type of equipment vehicles are excluded from the definition of a Motor Vehicle.

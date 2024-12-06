@@ -1,0 +1,143 @@
+Q: What is the effective date of the group policy under Unum Cert 5019931.pdf?
+A: Based on page 3, the plan effective date is December 1, 2015.
+<EOS>
+Q: Under what condition can the day after completing a waiting period become the plan effective date?
+A: Based on pages 3 and 5, the day after you complete your waiting period can be the plan effective date if it falls after December 1, 2015.
+<EOS>
+Q: By what time on the Policyholder's address does each day for purposes of effective dates and ending dates under the group policy end?
+A: Based on page 3, all days begin at 12:01 a.m. and end at 12:00 midnight at the Policyholder's address.
+<EOS>
+Q: What is the minimum hours requirement for employees as per Unum Cert 5019931.pdf page [5]?
+A: Employees must be working at least 30 hours per week.
+<EOS>
+Q: Is there any specific number of hours stated that would disqualify an employee from eligibility, based on Unum Cert 5019931.pdf page [5]?
+A: No explicit disqualifying hour limit is mentioned in the document.
+<EOS>
+Q: Are there any exceptions or additional conditions related to the minimum hours requirement as per Unum Cert 5019931.pdf page [5]?
+A: There are no apparent exceptions or additional conditions regarding the minimum hours requirement in the provided content.
+<EOS>
+Q: What is the waiting period for employees in an eligible group who started before December 1, 2015?
+A: Based on Unum Cert 5019931.pdf page 5, the waiting period for employees in an eligible group on or before December 1, 2015 is the first of the month coincident with or next following 30 days of continuous active employment.
+<EOS>
+Q: What is the waiting period for employees entering an eligible group after December 1, 2015?
+A: Based on Unum Cert 5019931.pdf page 5, the waiting period for employees entering an eligible group after December 1, 2015 is also the first of the month coincident with or next following 30 days of continuous active employment.
+<EOS>
+Q: If an employee's employment ends and they are rehired within 12 months, what happens to their waiting period?
+A: Based on Unum Cert 5019931.pdf page 10, if an employee's employment ends and they are rehired within 12 months, their previous work while in an eligible group will apply toward the waiting period. The policy provisions apply for all other cases.
+<EOS>
+Q: What is the duration of the elimination period for a claim under Unum Cert 5019931.pdf?
+A: Based on Unum Cert 5019931.pdf pages [5, 13, 14, 15, 20, 21, 28], the elimination period is 90 days.
+<EOS>
+Q: Are you required to have a 20% or more loss in indexed monthly earnings due to the same injury or sickness to be considered disabled during the elimimation period?
+A: Based on Unum Cert 5019931.pdf pages [5, 13, 14, 15, 20, 21, 28], you are not required to have a 20% or more loss in indexed monthly earnings due to the same injury or sickness to be considered disabled during the elimination period.
+<EOS>
+Q: Can you satisfy your elimination period if you are working while disabled?
+A: Based on Unum Cert 5019931.pdf pages [5, 13, 14, 15, 20, 21, 28], if you are working while you are disabled, the days you are disabled will count toward your elimination period.
+<EOS>
+Q: What are the requirements for proof of disability earnings?
+A: Based on Unum Cert 5019931.pdf page 30, appropriate financial records may be required, which could include income tax returns to substantiate your income as part of the proof of disability earnings.
+<EOS>
+Q: How is the monthly payment calculated during the elimination period if an individual is disabled for less than a month?
+A: Based on Unum Cert 5019931.pdf page 31, after the elimination period, if you are disabled for less than 1 month, we will send you 1/30 of your payment for each day of disability.
+<EOS>
+Q: How is the monthly payment calculated during the disability period?
+A: Based on Unum Cert 5019931.pdf page 28-29, after the elimination period, if you are disabled for more than a month, your monthly payment will be based on your percentage of lost earnings as calculated by multiplying your monthly payment by this percentage of lost earnings; - the end of the maximum period of payment; -  the date you are eligible to receive benefits under Unum's Rehabilitation and Return to Work Assistance program; - the date you fail to submit proof of continuing disability; or after 12 months of payments if considered to reside outside United States or Canada. You will be considered to reside outside these countries when you have been outside the following schedule: for the first year, by an increase of 4% based on the Consumer Price Index for All Urban Consumers (CPI-U) as a result of this adjustment will not decrease below your earnings prior to the date your disability benefits begin.
+<EOS>
+Q: What is the maximum monthly benefit an employee can receive under this plan?
+A: Based on Unum Cert 5019931.pdf page [6], the maximum monthly benefit for an employee is $10,000.
+<EOS>
+Q: What is the maximum monthly benefit for dependent care expenses under this policy?
+A: Based on Unum Cert 5019931.pdf page [6], the maximum monthly benefit for all eligible dependent care expenses combined is $1,000.
+<EOS>
+Q: How long can benefits be paid out for disabilities due to mental illness and self-reported symptoms?
+A: Based on Unum Cert 5019931.pdf page [24], the lifetime cumulative maximum benefit period for such disabilities is 24 months. However, payments may continue beyond this period if certain conditions are met as stated on page [23].
+<EOS>
+Q: What is the Dependent Care Expense Benefit amount per dependent, per month?
+A: Based on Unum Cert 5019931.pdf page 6, the Dependent Care Expense Benefit amount per dependent is $350 per month.
+<EOS>
+Q: What is the maximum total monthly benefit for all dependent care expenses combined?
+A: Based on Unum Cert 5019931.pdf page 6, the maximum total monthly Dependent Care Expense Benefit amount for all eligible dependent care expenses combined is $1,000 per month.
+<EOS>
+Q: Under what circumstances can one receive a Dependent Care Expense Benefit while participating in Unum's Rehabilitation and Return to Work Assistance program?
+A: Based on Unum Cert 5019931.pdf page 6, one can receive a Dependent Care Expense Benefit when disabled and incurring expenses to provide care for a child under the age of 15 or starting to incur expenses for a child age 15 or older or a family member who needs personal care assistance while participating in Unum's Rehabilitation and Return to Work Assistance program.
+<EOS>
+Q: What is the minimum benefit period for pre-existing conditions under Continuity of Coverage as per Unum Cert 5019931.pdf?
+A: Based on Unum Cert 5019931.pdf page [6], the minimum benefit period for pre-existing conditions under Continuity of Coverage is 3/12 (three months).
+<EOS>
+Q: What happens if an employee is not in active employment when their employer changes insurance carriers to Unum, as per the document?
+A: Based on Unum Cert 5019931.pdf page [6], if an employee is not in active employment when their employer changes insurance carriers to Unum, they are eligible for Continuity of Coverage.
+<EOS>
+Q: Is there a mention of the Work Life Assistance Program in relation to Continuity of Coverage and what happens if it applies?
+A: Based on Unum Cert 5019931.pdf page [22], the Work Life Assistance Program is mentioned in relation to Continuity of Coverage. However, there are no specific details about what happens when the program applies as the page does not provide that information.
+<EOS>
+Q: What is the minimum benefit for pre-existing conditions under the Unum Cert 5019931.pdf policy?
+A: Based on Unum Cert 50199931.pdf page 6, the minimum benefit for a pre-existing condition is 3/12 of the benefit amount.
+<EOS>
+Q: What happens if subtracting deductible sources of income results in a zero benefit?
+A: Based on Unum Cert 5019931.pdf page 17, if subtracting deductible sources of income results in a zero benefit, the minimum benefit (3/12) will apply.
+<EOS>
+Q: What is the Work Life Assistance Program mentioned under this policy?
+A: Based on Unum Cert 5019931.pdf page 6, the Work Life Assistance Program is a part of the policy which provides benefits in certain situations where the employee cannot work due to health reasons. The specific details about the program are not explicitly mentioned in the provided document.
+<EOS>
+Q: What is the survivor benefit amount provided by Unum if a policyholder dies?
+A: Based on Unum Cert 5019931.pdf page [6], the survivor benefit paid to an eligible survivor upon death is equal to 3 months of the policyholder's gross disability payment.
+<EOS>
+Q: When can a terminally ill policyholder receive the survivor benefit prior to their death?
+A: Based on Unum Cert 5019931.pdf page [6], if a policyholder has been diagnosed as terminally ill, they may receive the 3 month survivor benefit prior to their death.
+<EOS>
+Q: What happens to the 3 month survivor benefit if a policyholder elects to receive it before their death?
+A: Based on Unum Cert 5019931.pdf page [6], if a policyholder elects to receive the 3 month survivor benefit prior to their death, no additional 3 month survivor benefit will be payable upon their death. Furthermore, it is mentioned on page [22] that any overpayment which may exist on the claim will first be applied to the survivor benefit before it is paid out.
+<EOS>
+Q: Is a Work Life Assistance Program available with the plan as per Unum Cert 5019931.pdf?
+A: Yes, based on Unum Cert 5019931.pdf page [6, 26], you and your dependents are provided access to a Work Life Assistance Program designed to help with daily living issues.
+<EOS>
+Q: How can one access this program?
+A: The program can be accessed by a 1-800 telephone number available 24 hours a day, 7 days a week or online through a website. Information about this program can be obtained through your plan administrator.
+<EOS>
+Q: What kind of issues can the Work Life Assistance Program help with?
+A: Based on Unum Cert 5019931.pdf page [6, 26], the Work Life Assistance Program can help with virtually any personal or professional issue, including finding day care, transportation for an elderly parent, researching colleges for a child, and dealing with workplace stress. It also provides crisis support.
+<EOS>
+Q: What defines the end of coverage for a policy or plan according to Unum Cert 5019931.pdf?
+A: Based on Unum Cert 5019931.pdf page [11, 14, 16, 31, 33], the end of coverage can be the date the policy or plan is cancelled, the last day of the period for which you made any required contributions, the last day you are in active employment (except as provided under the covered layoff or leave of absence provision), the date you no longer are in an eligible group, or the date your eligible group is no longer covered.
+<EOS>
+Q: How does Unum determine average gross monthly income?
+A: Based on Unum Cert 5019931.pdf page [11, 14, 16, 31, 33], average gross monthly income is your total income before taxes. It includes pre-tax contributions to a qualified deferred compensation plan, Section 125 plan, or flexible spending account, but excludes income received from car, housing or moving allowances, Employer contributions to a qualified deferred compensation plan, and income received from sources other than your Employer.
+<EOS>
+Q: What are retirement payments according to Unum Cert 5019931.pdf?
+A: Based on Unum Cert 5019931.pdf page [11, 14, 16, 31, 33], retirement payments are those benefits which are based on your Employer's contribution to the retirement plan. Disability benefits which reduce the retirement benefit under the plan will also be considered as a retirement benefit. Regardless of how the retirement funds from the retirement plan are distributed, Unum will consider your and your Employer's contributions to be distributed simultaneously throughout your lifetime. Retirement payments do not include amounts rolled over or transferred to any eligible retirement plan, and they exclude payments made at the later of age 62 or normal retirement age under your Employer's retirement plan which are attributable to contributions you made on a post tax basis to the system.
+<EOS>
+Q: What mental illness limitation exceptions does Unum have for dementia?
+A: Unum will not apply the mental illness limitation to dementia if it is a result of stroke, trauma, viral infection, Alzheimer's disease, or other conditions not listed which are not usually treated by a mental health provider or other qualified provider using psychotherapy, psychotropic drugs, or other similar methods of treatment. [20]
+<EOS>
+Q: Which specific conditions that cause dementia are excluded from the mental illness limitation?
+A: Dementia resulting from stroke, trauma, viral infection, Alzheimer's disease, and other conditions not listed which are not usually treated by a mental health provider or other qualified provider using psychotherapy, psychotropic drugs, or other similar methods of treatment are excluded from the mental illness limitation. [20]
+<EOS>
+Q: How does Unum classify dementia caused by conditions not listed in the policy?
+A: Dementia caused by conditions not listed in the policy will be evaluated to determine if it is usually treated by a mental health provider or other qualified provider using psychotherapy, psychotropic drugs, or other similar methods of treatment. If it is not, then the mental illness limitation will not apply. [20]
+<EOS>
+Q: What is considered a pre-existing condition according to the Unum Cert 5019931.pdf?
+A: Based on Unum Cert 5019931.pdf page 20, a pre-existing condition is when you received medical treatment, consultation, care or services including diagnostic measures, or took prescribed drugs or medicines in the 3 months just prior to your effective date of coverage, and if the disability begins in the first 12 months after your effective date of coverage.
+<EOS>
+Q: How does Unum handle a disability claim due to a pre-existing condition when an employer changes insurance carriers to Unum?
+A: Based on Unum Cert 5019931.pdf page 23, if you were in active employment and insured under the plan on its effective date, and insured by the prior policy at the time of change, Unum may send a payment for your disability claim due to a pre-existing condition provided that you satisfy either the Unum plan's or the prior carrier's plan's pre-existing condition provision.
+<EOS>
+Q: What happens if an individual does not satisfy both conditions mentioned in regards to a pre-existing condition when changing insurance carriers?
+A: Based on Unum Cert 5019931.pdf page 23, if you do not satisfy either the Unum plan's or the prior carrier's plan's pre-existing condition provision, Unum will not make any payments for your disability claim due to a pre-existing condition.
+<EOS>
+Q: What happens if an individual is not in active employment when their employer changes insurance carriers to Unum, under the Continuity of Coverage policy?
+A: Based on Unum Cert 5019931.pdf pages 22-23, your payment will be limited to the amount that would have been paid by the prior carrier. Unum will reduce your payment by any amount for which your prior carrier is liable.
+<EOS>
+Q: What if an individual has a disability due to a pre-existing condition when their employer changes insurance carriers to Unum, under the Continuity of Coverage policy?
+A: Based on Unum Cert 5019931.pdf pages 22-23, Unum may send a payment if your disability results from a pre-existing condition. However, this will only happen if either the Unum plan or the prior carrier's plan would have paid benefits had their respective policies remained in force. If you do not meet these criteria, Unum will not make any payments.
+<EOS>
+Q: How does Unum administer a claim for an individual with a disability due to a pre-existing condition if they only satisfy one of the conditions mentioned in the policy?
+A: Based on Unum Cert 5019931.pdf pages 22-23, if you only satisfy Item 2 (i.e., the prior carrier's plan would have paid benefits had it remained in force), Unum will administer your claim according to the Unum plan provisions. If you satisfy both conditions, payments will be determined according to the Unum plan provisions.
+<EOS>
+Q: What is the purpose of a worksite modification?
+A: Based on Unum Cert 5019931.pdf page [26], a worksite modification might be what is needed to allow an individual to perform the material and substantial duties of their regular occupation with their Employer.
+<EOS>
+Q: How does Unum assist in the process of worksite modification?
+A: Based on Unum Cert 5019931.pdf page [26], one of Unum's designated professionals will assist you and your Employer to identify a modification that is likely to help you remain at work or return to work.
+<EOS>
+Q: What are the conditions for the agreement regarding worksite modification?
+A: Based on Unum Cert 5019931.pdf page [26], when there is an agreement on a worksite modification, it must be in writing and must be signed by you, your Employer, and Unum. When this occurs, Unum will reimburse your Employer for the cost of the modification.

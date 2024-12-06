@@ -1,0 +1,53 @@
+Q: What is the maximum monthly benefit as stated in the policy?
+A: Based on Lincoln Cert 4939979.pdf page 2, the Maximum Monthly Benefit is $6,000.
+<EOS>
+Q: What is the minimum monthly benefit according to the policy document?
+A: Based on Lincoln Cert 4939979.pdf page 2, the Minimum Monthly Benefit is $100.
+<EOS>
+Q: What is the waiting period mentioned in the summary plan description and the Plan Document?
+A: The Lincoln Disability Insurance Plan for Full-Time Employees. Based on the information provided, there is no direct reference to a waiting period in either the Summary Plan Description or the Certificate document. To find out the waiting period details, one should refer to the Plan Document as stated on page 4900, Indianapolis, IN 462208.
+<EOS>
+Q: What is the funding arrangement for Group Long Term Disability Insurance benefits?
+A: Based on Lincoln Cert 4939979.pdf page 2, the funding arrangement is with The Lincoln National Life Insurance Company.
+<EOS>
+Q: When do full-time employees become eligible for these benefits?
+A: Full-time employees become eligible on the first of the month coinciding with or next following active full-time employment.
+<EOS>
+Q: How much should an employee contribute to this coverage?
+A: Based on Lincoln Cert 493997 Term Disability Insurance Plan. The exact contribution requirements are not specified in the provided document, however, it is mentioned that employees can obtain a copy of the Certificate or Schedule of Benefits from the Plan Administrator at no charge. It is not given in the document.
+<EOS>
+Q: What are the eligibility requirements for this Long Term Disability Insurance plan?
+A: Based on Lincoln Cert 4939979 Company, full-time employees working at least 20 hours per week. Employees become eligible on the first of the month coinciding with or next following active full-time employment.
+<EOS>
+Q: What is the type of funding arrangement for this Plan's benefits?
+A: Based on Lincoln Cert 4939979 in this document and the Plan Document. The Lincoln National Life Insurance Company Group Long Term Disability Insurance Plan. The funding arrangement is with The Lincoln National Life Insurance Company.
+<EOS>
+Q: Where can I obtain a copy of my certificate of insurance?
+A: If your Booklet, Certificate or Schedule of Benefits has been misplaced, you may obtain a copy from the Plan Administrator at no charge.
+<EOS>
+Q: What is the Vocational Rehabilitation Benefit mentioned in Lincoln Cert 4939979.pdf page 3?
+A: The Vocational Rehabilitation Benefit consists of services which may include vocational evaluation, counseling, training or job placement, job modification or special equipment, and other services which the Company deems reasonably necessary to help the Insured Employee return to work.
+<EOS>
+Q: What are the eligibility requirements for this Vocational Rehabilitation Benefit?
+A: An Insured Employee may be eligible if he or she has a Disability that prevents the performance of his or her regular occupation, lacks the skills, training or experience needed to perform any other gainful occupation, has the physical and mental abilities needed to complete a Program, is reasonably expected to return to work after completing the Program, and the cost of the proposed services is less than the Company's expected claim liability.
+<EOS>
+Q: What happens if an Insured Employee fails to complete the Vocational Rehabilitation Program without Good Cause?
+A: Based on Lincoln Cert 4939979.pdf page 26, the Policy will not cover any period of Disability for an Insured Employee who has received a Vocational Rehabilitation Benefit and has failed to complete the Program without Good Cause. The term "Good Cause" is defined as documented physical or mental impairments which render the Insured Employee unable to work or participation in the Program. The Company may determine the Insured Employee's degree of motivation and the labor force demand for workers in the proposed occupation. find that the cost of the proposed services is less than its expected claim liability. The amount of any Benefit payable Vocational Rehabilitation Benefit will not exceed the Company's expected claims liability. The Company will determine the Insured Employee's eligibility and the amount of any Benefit plan or any other vocational rehabilitation program, and make payment may be made to the provider of the services, at the Company's option. Either the Company, the Insured Employee, or his or her Physician may first propose vocational rehabilitation. When a Program is approved by the Company, the Policy's definition of Disability will be waived during the rehabilitation period; but it will be reapplied after the Program ends.
+<EOS>
+Q: What is the name of the Plan?
+A: Group Long Term Disability Insurance for Employees of Eskenazi Medical Group.
+<EOS>
+Q: Who is the Sponsor of the Plan?
+A: Eskenazi Medical Group, located at 8910 Purdue Road, One College Park, Suite 500, Indianapolis, IN, 46268-6100. The Employer Identification Number (EIN) is 35-1693695 and the IRS Plan Number is 502.
+<EOS>
+Q: Who is the Plan Administrator?
+A: Eskenazi Medical Group, located at the same address as the Sponsor. The business telephone number is (317) 871-8809.
+<EOS>
+Q: What is the occupation that the Insured Employee was employed with prior to Disability?
+A: The Insured Employee's Regular Occupation is the one in which he or she was employed with the Employer prior to Disability, as defined on page 8 of Lincoln Cert 4939979.pdf.
+<EOS>
+Q: What constitutes Total Disability during the Elimination Period and Own Occupation Period?
+A: During the Elimination Period and Own Occupation Period, Total Disability means that due to an Injury or Sickness the Insured Employee is unable to perform each of the main duties of his or her regular occupation.
+<EOS>
+Q: What are the requirements for a Physician to provide medically appropriate treatment?
+A: For a physician providing medical treatment, the physician must be a legally qualified medical doctor who is licensed practice medicine, to prescribe and administer drugs or perform surgery; or any other duly licensed medical practitioner must act within the scope of his or her license; and must be qualified treat the Insured Employee's disabling condition.
