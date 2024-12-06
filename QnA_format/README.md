@@ -2,7 +2,7 @@
 Same as Earlier 
 Just run ```ollama_section_to_paras-QnA.py``` using the ```output_v3.json``` file outputted from running ```pdf-extract-3.py```
 
-### Keywords used to generate answers about -
+### Keywords used to generate Question-answer pairs -
 ```
         self.keywords = {
             'Carrier', 'Effective Date', 'State', 
